@@ -1,1 +1,16 @@
-/corpus
+# Corpus (confidentiel, ne pas distribuer)
+corpus/
+corpus_txt/
+
+# Python
+__pycache__/
+*.pyc
+.venv/
+venv/
+
+# Résultats générés (optionnel, à toi de voir)
+# resultats/
+
+# OS/éditeur
+.DS_Store
+.vscode/
