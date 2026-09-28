@@ -1,0 +1,173 @@
+Mulet	225	0
+Seldon	175	12
+Hardin	86	41
+Mallow	86	37
+Bayta	82	33
+Toran	75	36
+Pritcher	72	20
+Channis	64	24
+Mis	64	5
+Darell	63	16
+Barr	52	21
+Arcadia	47	26
+Anthor	46	13
+Munn	44	9
+Riose	42	18
+Devers	38	19
+Hari	33	9
+Hari Seldon	33	9
+Ebling	32	22
+Gaal	31	18
+Wienis	31	6
+Magnifico	29	20
+Sutt	26	13
+Pirenne	25	12
+Callia	21	9
+Homir	21	10
+Lee	21	5
+Ponyets	20	20
+Sermak	20	1
+Twer	20	4
+Indbur	19	8
+Randu	19	10
+Gorov	18	2
+Brodrig	17	5
+Ebling Mis	17	19
+Forell	16	1
+Turbor	15	6
+Han	14	2
+Han Pritcher	14	2
+Jael	14	3
+Kleise	14	4
+Verisof	14	5
+Semic	13	6
+Commason	12	2
+Stettin	12	4
+Lepold	11	7
+Hober	10	5
+Hober Mallow	10	5
+Homir Munn	10	3
+Salvor	10	0
+Salvor Hardin	10	0
+Cléon	9	2
+Pelleas	9	2
+Dorwin	8	1
+Fran	8	4
+Inchney	8	3
+Pherl	8	5
+Arkady	7	0
+Bail	7	5
+Bail Channis	7	5
+Dirige	7	0
+Ducem	7	4
+Ducem Barr	7	4
+Fara	7	2
+Jord	7	3
+Ovall	7	1
+Pelleas Anthor	7	0
+Rodric	7	0
+Senter	7	2
+Bort	6	2
+Dornick	6	0
+Palver	6	0
+Parma	6	1
+Aporat	5	2
+Asper	5	0
+Gaal Dornick	5	0
+Jaim	5	1
+Juddee	5	0
+Bel	4	4
+Bel Riose	4	4
+Cassandre	4	1
+Cenn	4	0
+Jaim Twer	4	1
+Maire Hardin	4	0
+Seigneur Stettin	4	0
+Argo	3	0
+Cassandre Seldon	3	1
+Commodore Asper	3	0
+Gri	3	0
+Jord Parma	3	1
+Lathan	3	4
+Lathan Devers	3	4
+Lefkin	3	4
+Lewis	3	0
+Luk	3	0
+Maire Indbur	3	0
+Manlio	3	1
+Meirus	3	1
+Narovi	3	0
+Ovall Gri	3	0
+Walto	3	1
+Asper Argo	2	0
+Dagobert	2	2
+Dixyl	2	0
+Elvett	2	1
+Eskel	2	0
+Eskel Gorov	2	0
+Fulham	2	0
+Jorane	2	3
+Jorane Sutt	2	3
+Jord Commason	2	1
+Jord Fara	2	1
+Lee Senter	2	2
+Lewis Bort	2	0
+Onum	2	0
+Onum Barr	2	0
+Orsy	2	0
+Amann	1	0
+Ankor	1	2
+Ankor Jael	1	2
+Anselme	1	1
+Arcadia Darell	1	0
+Arcadia Palver	1	0
+Bayta Darell	1	0
+Cailla	1	0
+Cléon Ier	1	0
+Commodore Asper Argo	1	0
+Crast	1	1
+Dokor	1	0
+Dokor Walto	1	0
+Elvett Semic	1	1
+Giganticus	1	0
+Hortnir	1	0
+Hortnir Munn	1	0
+Irréductible	1	0
+Jaim Orsy	1	0
+Jerril	1	1
+Lepold Ier	1	0
+Lev	1	0
+Lev Meirus	1	0
+Lewis Pirenne	1	0
+Limmar	1	0
+Limmar Ponyets	1	0
+Lundin	1	0
+Lundin Crast	1	0
+Magnifiée Giganticus	1	0
+Marchand Eskel	1	0
+Marchand Eskel Gorov	1	0
+Maître Marchand Eskel	1	0
+Mori	1	0
+Mori Luk	1	0
+Orum	1	0
+Orum Dirige	1	0
+Preem	1	1
+Preem Palver	1	1
+Publis	1	0
+Publis Manlio	1	0
+Sef	1	2
+Sef Sermak	1	2
+Seigneur Stellin	1	0
+Tarki	1	0
+Tinter	1	3
+Tomas	1	0
+Tomas Sutt	1	0
+Toran Darell	1	0
+Yate	1	1
+Yate Fulham	1	1
+Yohan	1	3
+Yohan Lee	1	3
+Poly	0	1
+Poly Verisof	0	1
+Sennett	0	2
+Sennett Forell	0	2
