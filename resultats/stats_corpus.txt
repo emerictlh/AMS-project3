@@ -1,0 +1,5 @@
+Fondation_impaires.txt : 108 pages, 204210 caractères, 35114 mots, 3121 phrases
+Fondation_et_empire_impaires.txt : 116 pages, 225457 caractères, 38962 mots, 3318 phrases
+Seconde_Fondation_impaires.txt : 120 pages, 237310 caractères, 39677 mots, 3130 phrases
+TOTAL : 344 pages, 666977 caractères, 113753 mots, 9569 phrases
+Candidats uniques dans L : 1415

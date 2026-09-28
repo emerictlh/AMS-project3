@@ -1,1133 +1,1415 @@
-Fondation	478
-Je	301
-Seldon	252
-Vous	236
-Mulet	225
-Le	210
-Il	210
-Empire	209
-Hardin	209
-Mallow	203
-Et	174
-C	169
-Galaxie	166
-Anacréon	118
-Seconde	118
-Seconde Fondation	117
-Mais	115
-II	110
-Trantor	105
-La	101
-Oui	97
-Bayta	96
-Toran	91
-Terminus	85
-Pritcher	81
-Gaal	78
-Maire	78
-Non	74
-Barr	73
-Channis	73
-Marchand	71
-Darell	71
-Sutt	69
-Wienis	69
-Mis	68
-Pirenne	67
-Kalgan	67
-Ce	65
-L	64
-Arcadia	62
-J	61
-Ponyets	60
-Eh	59
-Commodore	56
-Plan	55
-Nous	54
-Les	54
-En	53
-Hari	52
-Hari Seldon	52
-Riose	51
-Devers	51
-Anthor	51
-Grand	49
-Alors	48
-Maître	48
-Twer	48
-Munn	48
-Premier	47
-Ah	46
-Comment	46
-Galactique	45
-Lee	45
-Marchands	44
-Qu	43
-Pas	43
-Si	43
-Ebling	43
-Sermak	42
-Ils	41
-Conseil	41
-Orateur	41
-A	40
-Votre	39
-Gorov	38
-Grand Maître	38
-Oh	37
-Un	35
-Espace	35
-Elle	35
-Verisof	34
-Magnifico	33
-Une	32
-Lepold	32
-Périphérie	31
-Que	31
-Jael	31
-De	30
-Excellence	30
-Esprit	30
-Dans	29
-Korell	29
-Premier Orateur	29
-Cela	28
-Pour	27
-Bien	27
-Tazenda	27
-Pourquoi	26
-Ebling Mis	26
-On	25
-Empire Galactique	25
-Callia	25
-Vraiment	24
-D	23
-Ça	23
-Etat	23
-Randu	23
-Homir	23
-Pherl	22
-Hober	22
-Hober Mallow	22
-Indbur	22
-Port	21
-Papa	21
-Plan Seldon	21
-Voilà	20
-Première	20
-Turbor	20
-Encyclopédie	19
-Très	19
-Voyons	18
-Allons	18
-Cette	18
-Star	18
-Majesté	18
-Fara	18
-Quatre	18
-Royaumes	18
-Esprit Galactique	18
-Brodrig	18
-Seigneur	18
-Mon	17
-Parfaitement	17
-Salvor	17
-Salvor Hardin	17
-Dorwin	17
-Par	17
-Tu	17
-Où	16
-Quand	16
-Tout	16
-Sa	16
-Quatre Royaumes	16
-Bon	16
-Forell	16
-Première Fondation	16
-Son	15
-Commission	15
-Parce	15
-Le Mulet	15
-Semic	15
-Est	14
-Du	14
-Rodric	14
-Smyrno	14
-Ne	14
-Jord	14
-Bort	14
-Aporat	14
-Gorm	14
-Askone	14
-Qui	14
-Le Marchand	14
-Siwenna	14
-Fondations	14
-Han	14
-Han Pritcher	14
-Premier Citoyen	14
-Citoyen	14
-Kleise	14
-Au	13
-Attendez	13
-Impériale	13
-Parma	13
-Rossem	13
-Stettin	13
-Dornick	12
-GALACTICA	12
-Merci	12
-Procureur	12
-N	12
-Sur	12
-Administration	12
-Parfait	12
-Lefkin	12
-Puis	12
-Tenez	12
-Bay	12
-Commason	12
-Maman	12
-Ma	11
-La Fondation	11
-Des	11
-Néotrantor	11
-Pelleas	11
-Gaal Dornick	10
-Nébuleuse	10
-Cassandre	10
-Cléon	10
-Comme	10
-Haut	10
-Haut Rodric	10
-F	10
-Jaim	10
-Grâce	10
-Jorane	10
-Jorane Sutt	10
-Far	10
-Far Star	10
-Asper	10
-Majesté Impériale	10
-Seigneurs	10
-Fran	10
-Torie	10
-Homir Munn	10
-Cet	9
-Exactement	9
-S	9
-Quoi	9
-V	9
-Le Commodore	9
-Ducem	9
-Ducem Barr	9
-Monsieur	9
-Inchney	9
-Quelle	8
-Cassandre Seldon	8
-End	8
-Quel	8
-Maire Hardin	8
-O	8
-Ces	8
-Sans	8
-Smyrnien	8
-Moi	8
-Maître Marchand	8
-Votre Grâce	8
-Manlio	8
-Jaim Twer	8
-Sire	8
-Anciens	8
-Dame	8
-I	7
-Ere	7
-Soleil	7
-Astronef	7
-Etes	7
-Dites	7
-Naturellement	7
-Le Maire	7
-Encyclopédistes	7
-Parlez	7
-Après	7
-Voulez	7
-Peut	7
-Avec	7
-Sa Majesté	7
-Sa Majesté Impériale	7
-Ovall	7
-Senter	7
-Bail	7
-Bail Channis	7
-Lens	7
-Arkady	7
-Pelleas Anthor	7
-Dirige	7
-PARTIE	6
-LES	6
-Excusez	6
-Quels	6
-Absolument	6
-Rien	6
-Tiens	6
-Docteur	6
-FRQWUHF	6
-Jord Fara	6
-Monseigneur	6
-Lewis	6
-Ecoutez	6
-Walto	6
-Altesse	6
-Asseyez	6
-Askoniens	6
-Le Grand	6
-Le Grand Maître	6
-Lorsque	6
-Impossible	6
-République	6
-Korellienne	6
-Argo	6
-Korelliens	6
-Commodore Asper	6
-Tinter	6
-Jord Parma	6
-Mes	6
-Tous	6
-Grand Prêtre	6
-Prêtre	6
-Siwennien	6
-Marchands Indépendants	6
-Indépendants	6
-Pendant	6
-Visi	6
-Sonor	6
-Renard	6
-Certainement	6
-Union	6
-Poochie	6
-Dame Callia	6
-Palver	6
-Laissez	5
-Maintenant	5
-Ses	5
-Santanni	5
-Regardez	5
-Locris	5
-Votre Altesse	5
-Aucun	5
-IV	5
-PDQ	5
-Avant	5
-Peu	5
-Hmm	5
-Continuez	5
-Bel	5
-Bel Riose	5
-Hum	5
-Lathan	5
-Lathan Devers	5
-Association	5
-Juddee	5
-T	5
-PARTIE LES	4
-Jerril	4
-Ier	4
-Quelqu	4
-Avakim	4
-LE	4
-Université	4
-Six	4
-Arrêtez	4
-Bah	4
-Journal	4
-Auguste	4
-Auguste Majesté	4
-Empereur	4
-Peuh	4
-Fulham	4
-K	4
-Lameth	4
-Pi	4
-Gamma	4
-Andromède	4
-Nulle	4
-Holk	4
-Yohan	4
-Yohan Lee	4
-Sef	4
-Sef Sermak	4
-Lewis Bort	4
-Parti	4
-Action	4
-Zéon	4
-Orsy	4
-Certes	4
-Votre Majesté	4
-Ordonnez	4
-Plus	4
-Emmenez	4
-Les Gorm	4
-Convention	4
-Eskel	4
-Eskel Gorov	4
-Deux	4
-Enfin	4
-Quelles	4
-République Korellienne	4
-Temples	4
-Asper Argo	4
-Restez	4
-Aimé	4
-Onum	4
-Onum Barr	4
-Wiscard	4
-Sous	4
-P	4
-Encore	4
-Avez	4
-Aucune	4
-Magnifiée	4
-Gilmer	4
-Le Premier	4
-Même	4
-Cependant	4
-Olynthus	4
-Poli	4
-Meirus	4
-Seigneur Stettin	4
-Kalganiens	4
-Cenn	4
-Autrefois	3
-Ceci	3
-Cinquante	3
-Songez	3
-Trahison	3
-Bibliothèque	3
-Votre Excellence	3
-Son Excellence	3
-Finalement	3
-Sa Seigneurie	3
-Seigneurie	3
-Personne	3
-Ai	3
-Bref	3
-Q	3
-Paradis	3
-Pensez	3
-Entre	3
-Aussitôt	3
-Pardonnez	3
-Elles	3
-Supposons	3
-Entendu	3
-XU	3
-Prenez	3
-VI	3
-Etoiles	3
-Cinq	3
-Aussi	3
-Palais	3
-Là	3
-Gardez	3
-Dix	3
-Savez	3
-Luk	3
-Nouvelles	3
-Nouvelles Impériales	3
-Impériales	3
-Guerre	3
-Maire Indbur	3
-Capitaine	3
-Hangar	3
-Voici	3
-Ovall Gri	3
-Gri	3
-Gente	3
-Croyez	3
-Y	3
-Grand Pillage	3
-Pillage	3
-Dagobert	3
-Rossemites	3
-Narovi	3
-Le Premier Orateur	3
-Erlking	3
-Père	3
-Unimara	3
-Depuis	3
-Allez	3
-PARTIE LES PSYCHOHISTORIENS	2
-LES PSYCHOHISTORIENS	2
-LES PSYCHOHISTORIENS I	2
-PSYCHOHISTORIENS	2
-PSYCHOHISTORIENS I	2
-PSYCHOHISTORIENS I HARI	2
-I HARI	2
-I HARI SELDON	2
-HARI	2
-HARI SELDON	2
-SELDON	2
-Né	2
-Ere Galactique	2
-Hélicon	2
-Arcturus	2
-Synnax	2
-Avancez	2
-TAXIS	2
-TAXIS POUR	2
-TAXIS POUR TOUTES	2
-POUR	2
-POUR TOUTES	2
-POUR TOUTES DIRECTIONS	2
-TOUTES	2
-TOUTES DIRECTIONS	2
-DIRECTIONS	2
-Surveillant	2
-Gouvernement	2
-Gouvernement Impérial	2
-Impérial	2
-Chaque	2
-Achille	2
-Sécurité	2
-Sécurité Publique	2
-Publique	2
-Décidément	2
-Environ	2
-COMMISSION	2
-COMMISSION DE	2
-COMMISSION DE SÉCURITÉ	2
-DE	2
-DE SÉCURITÉ	2
-DE SÉCURITÉ PUBLIQUE	2
-SÉCURITÉ	2
-SÉCURITÉ PUBLIQUE	2
-PUBLIQUE	2
-Cléon Ier	2
-Entuns	2
-Chen	2
-Divart	2
-Lors	2
-Lors Avakim	2
-Quinze	2
-LE PROCUREUR	2
-PROCUREUR	2
-Dont	2
-Cent	2
-Facilement	2
-Encyclopedia	2
-Encyclopedia Galactica	2
-Galactica	2
-VII	2
-VII Avakim	2
-Commissaire	2
-Bibliothèque Impériale	2
-Docteur Seldon	2
-Prévenez	2
-Conseil Municipal	2
-Municipal	2
-Le Journal	2
-Drôle	2
-Simplement	2
-Véga	2
-Celle	2
-Son Auguste	2
-Son Auguste Majesté	2
-Konom	2
-Daribow	2
-Anselme	2
-Anselme Haut	2
-Anselme Haut Rodric	2
-Tomas	2
-Tomas Sutt	2
-Dois	2
-Président	2
-Me	2
-Ha	2
-Pardon	2
-Ja	2
-Obijasi	2
-Pé	2
-Soyez	2
-Planète	2
-Car	2
-Sa Puissante	2
-Sa Puissante Majesté	2
-Puissante	2
-Puissante Majesté	2
-Lewis Pirenne	2
-Yate	2
-Yate Fulham	2
-Obligations	2
-Nulles	2
-Autorité	2
-Lundin	2
-Lundin Crast	2
-Crast	2
-Veuillez	2
-Exprimée	2
-Le Maire Hardin	2
-Le Conseil	2
-Alurin	2
-Fondation V	2
-PARTIE LES MAIRES	2
-LES MAIRES	2
-LES MAIRES I	2
-MAIRES	2
-MAIRES I	2
-MAIRES I LES	2
-I LES	2
-I LES QUATRE	2
-LES QUATRE	2
-LES QUATRE ROYAUMES	2
-QUATRE	2
-QUATRE ROYAUMES	2
-ROYAUMES	2
-GALACTICA Une	2
-Ce Sermak	2
-Anacréonien	2
-Toi	2
-Brutus	2
-II On	2
-Poly	2
-Poly Verisof	2
-Humm	2
-Probablement	2
-Evidemment	2
-Laquelle	2
-Fêtons	2
-Samia	2
-Lera	2
-Reconnaissants	2
-Peur	2
-Paradis Terrestre	2
-Terrestre	2
-Après Sermak	2
-Dokor	2
-Dokor Walto	2
-Bigre	2
-Anacréoniens	2
-Jaim Orsy	2
-Levi	2
-Levi Norast	2
-Norast	2
-Tarki	2
-Tertio	2
-Du Locris	2
-Lepold Ier	2
-Navigation	2
-Appelez	2
-Atomo	2
-Se	2
-Que Votre	2
-Que Votre Majesté	2
-Temple	2
-Argolide	2
-Occupez	2
-Fermez	2
-Soldats	2
-Saisissez	2
-Glyptal	2
-Glyptal IV	2
-Guilde	2
-Limmar	2
-Limmar Ponyets	2
-Maître Marchand Eskel	2
-Marchand Eskel	2
-Marchand Eskel Gorov	2
-Riche	2
-Askonien	2
-Autrement	2
-Grand Maitre	2
-Maitre	2
-Avaient	2
-Randel	2
-Messieurs	2
-Aînés	2
-Aîné	2
-Maladroites	2
-Calmez	2
-Revenons	2
-Amirauté	2
-Building	2
-Building Hardin	2
-Publis	2
-Publis Manlio	2
-Affaires	2
-Affaires Etrangères	2
-Etrangères	2
-Eglise	2
-Pain	2
-Education	2
-Voyage	2
-Ultra	2
-IV Korell	2
-Commodore Asper Argo	2
-Demen	2
-Quelques	2
-Ennemis	2
-Grum	2
-Upshur	2
-Maudit	2
-Commandant	2
-Transmettez	2
-Téléporté	2
-V Le	2
-V Le Commodore	2
-Le Commodore Asper	2
-Jusqu	2
-Santé	2
-Partant	2
-Mettez	2
-Hm	2
-Assez	2
-Etoiles Rouges	2
-Rouges	2
-Lui	2
-Détruits	2
-Ankor	2
-Ankor Jael	2
-XII	2
-XII La	2
-U	2
-P S	2
-P S K	2
-S K	2
-PSK	2
-Police	2
-Police Secrète	2
-Police Secrète Korellienne	2
-Secrète	2
-Secrète Korellienne	2
-Cour	2
-Aurais	2
-XIII	2
-XIII Asper	2
-XIII Asper Argo	2
-XIV	2
-XIV Le	2
-Sinon	2
-Hmmm	2
-Sachez	2
-Dernier	2
-Peurifoy	2
-Grande	2
-Grande Galaxie	2
-Fichtre	2
-Sennett	2
-Sennett Forell	2
-Amas	2
-Lemul	2
-Cartels	2
-Pléiades	2
-Orre	2
-Inutile	2
-Pouvez	2
-Soudain	2
-Lorsqu	2
-Puisque	2
-Ecoute	2
-Information	2
-Debout	2
-Sciences	2
-Capitaine Pritcher	2
-Laisse	2
-Venez	2
-Iwo	2
-Horleggor	2
-Mangin	2
-Hella	2
-Le Renard	2
-Noth	2
-Newton	2
-Filien	2
-Jord Commason	2
-Votre Majesté Impériale	2
-Hein	2
-Lee Senter	2
-Supposez	2
-Les Fondations	2
-La Seconde	2
-La Seconde Fondation	2
-Homo	2
-Sur Néotrantor	2
-Mondes	2
-Jamais	2
-Pelot	2
-Vincetori	2
-Gentri	2
-Femme	2
-Nobles	2
-Ancien	2
-Apparemment	2
-Suivit	2
-Avenir	2
-Voyez	2
-Madame	2
-Donnez	2
-Elvett	2
-Lentement	2
-Lieutenant	2
-Pourtant	2
-Premier Ministre	2
-Ministre	2
-Stanmark	2
-Canal	2
-Leemor	2
-Dixyl	2
-TRANTOR	1
-Le Procureur	1
-TROISIEME	1
-TROISIEME PARTIE	1
-TROISIEME PARTIE LES	1
-Car Limmar	1
-Car Limmar Ponyets	1
-Sa Grâce	1
-XI	1
-XI La	1
-PARTIE LE	1
-PARTIE LE GÉNÉRAL	1
-LE GÉNÉRAL	1
-LE GÉNÉRAL I	1
-GÉNÉRAL	1
-GÉNÉRAL I	1
-GÉNÉRAL I BEL	1
-I BEL	1
-I BEL RIOSE	1
-BEL	1
-BEL RIOSE	1
-RIOSE	1
-Impériaux	1
-GALACTICA Bel	1
-GALACTICA Bel Riose	1
-Le Siwennien	1
-Sa Splendeur	1
-Sa Splendeur Impériale	1
-Splendeur	1
-Splendeur Impériale	1
-Etats	1
-Mountel	1
-Paramay	1
-Ainsi	1
-XYUDLHQW	1
-Patricien	1
-Etoiles Sombres	1
-Sombres	1
-Pax	1
-Pax Imperium	1
-Imperium	1
-Empire Universel	1
-Universel	1
-Attaquez	1
-Pensiez	1
-Notamment	1
-Exact	1
-Répondez	1
-Vrank	1
-Comprenez	1
-Préparez	1
-Quarante	1
-Puissent	1
-Wanda	1
-Cléon II	1
-Figurez	1
-Mori	1
-Mori Luk	1
-Terre	1
-Mais Riose	1
-Age	1
-Age Héroïque	1
-Héroïque	1
-Lequel	1
-Comme Riose	1
-Les Marchands	1
-Mais Ducem	1
-Mais Ducem Barr	1
-GHOj	1
-GH	1
-KRUL	1
-RQ	1
-Port II	1
-Calme	1
-Vers	1
-Agir	1
-II Le	1
-Capitaine Han	1
-Capitaine Han Pritcher	1
-Loris	1
-Académie	1
-Service	1
-Renseignements	1
-Raisonnement	1
-Stanel	1
-Amann	1
-Mais Bayta	1
-Hé	1
-Rends	1
-Dispersez	1
-Tandis	1
-IV Le	1
-IV Le Hangar	1
-Le Hangar	1
-Magnifiée Giganticus	1
-Giganticus	1
-Liberté	1
-Porfirat	1
-Porfirat Hart	1
-Hart	1
-Toutefois	1
-Formaliste	1
-Jetant	1
-Docteur Mis	1
-Taisez	1
-Bureau	1
-Sciences Historiques	1
-Historiques	1
-Mores	1
-Lyonesse	1
-Bunde	1
-Asperta	1
-Radole	1
-Neufs	1
-Méfiez	1
-Le Radolien	1
-Radolien	1
-Kiev	1
-Parlons	1
-Juste	1
-Seulement	1
-Mnemon	1
-Charte	1
-Fédération	1
-Ce Mulet	1
-Balbutiant	1
-Devant	1
-Mallow Hall	1
-Hall	1
-Jugez	1
-Majorât	1
-Levvaw	1
-Irréductible	1
-Willig	1
-Lo	1
-Lo Moro	1
-Moro	1
-Ni	1
-Désolé	1
-III	1
-III Ils	1
-Déjà	1
-OV	1
-Sûrement	1
-Ouïe	1
-Venant	1
-Le Filien	1
-Notre	1
-Réfléchissez	1
-NÉOTRANTOR	1
-Delicas	1
-GALACTICA Le	1
-Dagobert IX	1
-IX	1
-Mais Gilmer	1
-Si Votre	1
-Si Votre Majesté	1
-Sur Trantor	1
-Vivant	1
-Joue	1
-Magnifîco	1
-Suffisant	1
-Filiens	1
-Ou	1
-Sortons	1
-Dehors	1
-Pas Magnifico	1
-XYré	1
-Second	1
-Second Foundation	1
-Second Foundation Traduction	1
-Foundation	1
-Foundation Traduction	1
-Traduction	1
-Pierre	1
-Pierre Billon	1
-Pierre Billon PREMIÈRE	1
-Billon	1
-Billon PREMIÈRE	1
-Billon PREMIÈRE PARTIE	1
-PREMIÈRE	1
-PREMIÈRE PARTIE	1
-PREMIÈRE PARTIE BAIL	1
-PARTIE BAIL	1
-PARTIE BAIL CHANNIS	1
-BAIL	1
-BAIL CHANNIS	1
-BAIL CHANNIS LE	1
-CHANNIS	1
-CHANNIS LE	1
-CHANNIS LE MULET	1
-LE MULET	1
-MULET	1
-Recherche	1
-GALACTICA II	1
-Nation	1
-Création	1
-Selon	1
-Phase	1
-Phase Trois	1
-Trois	1
-Le Cinquième	1
-Le Cinquième Orateur	1
-Cinquième	1
-Cinquième Orateur	1
-Oligarchie	1
-Curieux	1
-Z	1
-Mulets	1
-Préfères	1
-Les Anciens	1
-Troisième	1
-Nouvelle	1
-Pourriez	1
-Etre	1
-Gouverneur	1
-Malheureusement	1
-Orateurs	1
-Point	1
-Si Channis	1
-Disons	1
-Faisons	1
-Trouvez	1
-Toujours	1
-Puisqu	1
-Dramatique	1
-Essayez	1
-Mais Bail	1
-Mais Bail Channis	1
-Grave	1
-Réveillez	1
-Aphasie	1
-Interrègne	1
-GALACTICA D	1
-Arcadia Darell	1
-Composition	1
-Rhétorique	1
-Félocution	1
-Plan Sel	1
-Sel	1
-Parvenue	1
-Maires	1
-Quatorze	1
-Mouvements	1
-Radiant	1
-Halte	1
-Ceux	1
-Humanité	1
-Olynthus Dam	1
-Dam	1
-Ingres	1
-Vingt	1
-Ions	1
-Ce Kleise	1
-Adam	1
-Billevesées	1
-Reste	1
-Soit	1
-Néanmoins	1
-Y Unimara	1
-Bayta Darell	1
-Stannel	1
-Stannel V	1
-Lev	1
-Lev Meirus	1
-Combien	1
-Trésor	1
-Derrière	1
-Dame Cailla	1
-Cailla	1
-Première Dame	1
-Tant	1
-Théâtre	1
-Théâtre Central	1
-Central	1
-Avenue	1
-Avenue Fleurie	1
-Fleurie	1
-Poo	1
-Mais Callia	1
-Féminence	1
-Oncle	1
-Oncle Homir	1
-Es	1
-Consulat	1
-Thallos	1
-Le Seigneur	1
-Menace	1
-Mulel	1
-Seigneur Stellin	1
-Stellin	1
-Rentrez	1
-Regarde	1
-Ferme	1
-Hortnir	1
-Hortnir Munn	1
-Arrêté	1
-Vite	1
-Hanto	1
-Inscrivez	1
-Inscrivez Arcadia	1
-Inscrivez Arcadia Palver	1
-Arcadia Palver	1
-Montrez	1
-Regardant	1
-Immunité	1
-Elvett Semic	1
-Symes	1
-Molff	1
-Approximativement	1
-Trop	1
-Docteur Darell	1
-Orum	1
-Orum Dirige	1
-Et Darell	1
-Trantorien	1
-Actuellement	1
-Commission Seldon	1
-Pour Darell	1
-Quant	1
-Seule	1
-Cosker	1
-Mal	1
-Soudain Maman	1
-Imbécile	1
-Tête	1
-Nouveau	1
-Justement	1
-Toran Darell	1
-Attends	1
-Voudriez	1
-Fennel	1
-Fennel Leemor	1
-Locrien	1
-TV	1
-Milla	1
-Sunni	1
-Tomma	1
-Kalgamens	1
-Vieux	1
-Inclinez	1
-Nouvel	1
-Nouvel An	1
-An	1
-Sornettes	1
-Nature	1
-Prétendriez	1
-Examinez	1
-Mais Darell	1
-Fort	1
-Etendez	1
-Réfléchis	1
-Pourrais	1
-Homme	1
-Preem	1
-Preem Palver	1
+Fondation	398	3
+Mulet	225	0
+Seldon	175	12
+Empire	152	0
+Galaxie	128	12
+Seconde	117	3
+Seconde Fondation	116	3
+Hardin	86	41
+Mallow	86	37
+Bayta	82	33
+Trantor	77	6
+Toran	75	36
+Pritcher	72	20
+Kalgan	66	10
+Channis	64	24
+Mis	64	5
+Darell	63	16
+Anacréon	60	4
+Terminus	55	3
+Plan	54	0
+Barr	52	21
+Maire	52	0
+Arcadia	47	26
+Anthor	46	13
+Marchand	45	0
+Munn	44	9
+Premier	44	3
+Riose	42	18
+Orateur	41	1
+Devers	38	19
+Hari	33	9
+Hari Seldon	33	9
+Marchands	33	0
+Ebling	32	22
+Gaal	31	18
+Wienis	31	6
+Premier Orateur	29	0
+Commodore	27	2
+Magnifico	26	18
+Sutt	26	13
+Galactique	26	0
+Grand	26	0
+Pirenne	25	12
+Tazenda	25	5
+Maître	23	1
+Espace	22	0
+Conseil	22	0
+Homir	21	10
+Callia	21	9
+Lee	21	5
+Plan Seldon	21	0
+Ponyets	20	20
+Twer	20	4
+Port	20	2
+Sermak	20	1
+Première	20	0
+Randu	19	10
+Indbur	19	8
+Périphérie	19	0
+Grand Maître	19	0
+Gorov	18	2
+Ebling Mis	17	19
+Brodrig	17	5
+Seigneur	17	1
+Forell	16	1
+Etat	16	0
+Empire Galactique	16	0
+Première Fondation	16	0
+Turbor	15	6
+Esprit	15	0
+Verisof	14	5
+Kleise	14	4
+Jael	14	3
+Han Pritcher	14	2
+Han	14	2
+Fondations	14	0
+Majesté	14	0
+Citoyen	14	0
+Le	13	356
+Excellence	13	13
+Papa	13	10
+Semic	13	6
+Korell	13	2
+Rossem	13	1
+Commason	12	2
+Impériale	12	0
+Lepold	11	7
+Stettin	11	4
+Premier Citoyen	11	3
+Maman	11	2
+Siwenna	11	1
+Bay	11	1
+Néotrantor	11	0
+Encyclopédie	11	0
+Sa	10	15
+Hober	10	5
+Hober Mallow	10	5
+Homir Munn	10	3
+Salvor	10	0
+Seigneurs	10	0
+Salvor Hardin	10	0
+Majesté Impériale	10	0
+Star	9	2
+Pelleas	9	2
+Cléon	9	2
+Royaumes	9	0
+Esprit Galactique	9	0
+Torie	8	6
+Pherl	8	5
+Quatre	8	5
+Fran	8	4
+Dame	8	3
+Inchney	8	3
+Dorwin	8	1
+Quatre Royaumes	8	0
+Commission	8	0
+GALACTICA	8	0
+Anciens	8	0
+Votre	7	47
+Bail Channis	7	5
+Bail	7	5
+Ducem Barr	7	4
+Ducem	7	4
+Jord	7	3
+Senter	7	2
+Fara	7	2
+Monsieur	7	2
+Sire	7	1
+Sa Majesté Impériale	7	1
+Smyrno	7	1
+Askone	7	1
+Ovall	7	1
+Sa Majesté	7	1
+Lens	7	0
+Dirige	7	0
+Arkady	7	0
+Rodric	7	0
+Pelleas Anthor	7	0
+Il	6	708
+II	6	87
+Dame Callia	6	3
+Bort	6	2
+Parma	6	1
+Gorm	6	1
+Visi	6	0
+Indépendants	6	0
+Renard	6	0
+Palver	6	0
+Siwennien	6	0
+Procureur	6	0
+Nébuleuse	6	0
+Dornick	6	0
+Administration	6	0
+End	6	0
+Marchands Indépendants	6	0
+Grâce	5	3
+Aporat	5	2
+Poochie	5	1
+Jaim	5	1
+Union	5	1
+Association	5	0
+Far Star	5	0
+Gaal Dornick	5	0
+Far	5	0
+Juddee	5	0
+Asper	5	0
+Les	4	176
+Son	4	39
+Bel Riose	4	4
+Bel	4	4
+Poli	4	2
+Cassandre	4	1
+Jaim Twer	4	1
+PDQ	4	0
+Astronef	4	0
+Cenn	4	0
+Seigneur Stettin	4	0
+Kalganiens	4	0
+Maître Marchand	4	0
+Encyclopédistes	4	0
+Smyrnien	4	0
+Santanni	4	0
+Ere	4	0
+PARTIE	4	0
+Soleil	4	0
+Olynthus	4	0
+Altesse	4	0
+Maire Hardin	4	0
+La	3	217
+Elle	3	143
+Une	3	72
+Haut	3	4
+Lefkin	3	4
+Lathan	3	4
+Haut Rodric	3	4
+Lathan Devers	3	4
+Gilmer	3	2
+Magnifiée	3	2
+Walto	3	1
+Meirus	3	1
+Manlio	3	1
+Cassandre Seldon	3	1
+Jord Parma	3	1
+Palais	3	0
+Hangar	3	0
+Nouvelles	3	0
+Prêtre	3	0
+Erlking	3	0
+LES	3	0
+Université	3	0
+Askoniens	3	0
+Commodore Asper	3	0
+Argo	3	0
+Pillage	3	0
+Narovi	3	0
+Lewis	3	0
+République	3	0
+Unimara	3	0
+Maire Indbur	3	0
+Impériales	3	0
+Rossemites	3	0
+Guerre	3	0
+Grand Prêtre	3	0
+Korelliens	3	0
+Locris	3	0
+Ovall Gri	3	0
+Nouvelles Impériales	3	0
+Grand Pillage	3	0
+FRQWUHF	3	0
+Luk	3	0
+Korellienne	3	0
+Gri	3	0
+On	2	88
+Cette	2	32
+Bien	2	29
+Après	2	16
+Jorane	2	3
+Jorane Sutt	2	3
+Dagobert	2	2
+Lee Senter	2	2
+Votre Altesse	2	2
+Wiscard	2	1
+LE	2	1
+Jord Commason	2	1
+Elvett	2	1
+Votre Majesté	2	1
+Jord Fara	2	1
+Empereur	2	0
+Sciences	2	0
+Ministre	2	0
+Andromède	2	0
+Seigneurie	2	0
+Gamma	2	0
+Convention	2	0
+Action	2	0
+Peurifoy	2	0
+Noth	2	0
+Lemul	2	0
+Fulham	2	0
+Temples	2	0
+Madame	2	0
+Journal	2	0
+Ancien	2	0
+Auguste	2	0
+Cartels	2	0
+Holk	2	0
+Sa Seigneurie	2	0
+Avakim	2	0
+Eskel	2	0
+Etoiles	2	0
+Onum Barr	2	0
+Avenir	2	0
+Premier Ministre	2	0
+Horleggor	2	0
+Mondes	2	0
+Ier	2	0
+Orre	2	0
+Dixyl	2	0
+Bibliothèque	2	0
+Pléiades	2	0
+Gentri	2	0
+Asper Argo	2	0
+XU	2	0
+Stanmark	2	0
+Homo	2	0
+Lewis Bort	2	0
+République Korellienne	2	0
+Vincetori	2	0
+Parti	2	0
+Amas	2	0
+Zéon	2	0
+Eskel Gorov	2	0
+Votre Excellence	2	0
+Orsy	2	0
+Filien	2	0
+Pelot	2	0
+PARTIE LES	2	0
+Newton	2	0
+Paradis	2	0
+Onum	2	0
+Mangin	2	0
+Canal	2	0
+Information	2	0
+Son Excellence	2	0
+Pi	2	0
+Auguste Majesté	2	0
+Mais	1	344
+Ils	1	114
+Si	1	109
+De	1	49
+Des	1	32
+Au	1	30
+Est	1	27
+Mon	1	21
+Avec	1	20
+Bon	1	11
+Lorsque	1	10
+Le Premier	1	8
+Quelles	1	8
+Deux	1	7
+Le Commodore	1	7
+Le Premier Orateur	1	7
+Le Maire	1	6
+IV	1	6
+Chaque	1	5
+Yohan	1	3
+Votre Grâce	1	3
+Trois	1	3
+Tinter	1	3
+Yohan Lee	1	3
+Aussi	1	3
+Grande	1	2
+Grande Galaxie	1	2
+Sef Sermak	1	2
+Sef	1	2
+Ankor	1	2
+Cléon II	1	2
+Monseigneur	1	2
+Ankor Jael	1	2
+Ha	1	1
+SELDON	1	1
+Jerril	1	1
+Son Auguste	1	1
+Anselme	1	1
+Les Gorm	1	1
+Son Auguste Majesté	1	1
+Le Commodore Asper	1	1
+Anselme Haut Rodric	1	1
+Yate	1	1
+Radole	1	1
+Crast	1	1
+IX	1	1
+Preem Palver	1	1
+Lameth	1	1
+Anselme Haut	1	1
+Iwo	1	1
+Leemor	1	1
+Chen	1	1
+Preem	1	1
+Lors	1	1
+Votre Majesté Impériale	1	1
+Elvett Semic	1	1
+Hella	1	1
+Yate Fulham	1	1
+Humanité	1	0
+Ions	1	0
+Commissaire	1	0
+Hortnir	1	0
+Municipal	1	0
+Affaires	1	0
+Stanel	1	0
+Mountel	1	0
+Police Secrète	1	0
+Historiques	1	0
+An	1	0
+TOUTES DIRECTIONS	1	0
+Paramay	1	0
+Trésor	1	0
+Arcadia Darell	1	0
+Sciences Historiques	1	0
+Age	1	0
+Orateurs	1	0
+Police Secrète Korellienne	1	0
+Navigation	1	0
+Anacréoniens	1	0
+Fédération	1	0
+Homme	1	0
+Hart	1	0
+Gouverneur	1	0
+CHANNIS LE MULET	1	0
+POUR TOUTES	1	0
+Plan Sel	1	0
+TOUTES	1	0
+Mallow Hall	1	0
+Billon PREMIÈRE PARTIE	1	0
+Gouvernement	1	0
+Jaim Orsy	1	0
+Ere Galactique	1	0
+Kalgamens	1	0
+Sombres	1	0
+Upshur	1	0
+GALACTICA Bel Riose	1	0
+Service	1	0
+Levi Norast	1	0
+Divart	1	0
+PARTIE LES MAIRES	1	0
+PARTIE LE GÉNÉRAL	1	0
+Hélicon	1	0
+Sécurité Publique	1	0
+Bayta Darell	1	0
+Lors Avakim	1	0
+Avenue	1	0
+QUATRE ROYAUMES	1	0
+Samia	1	0
+Maitre	1	0
+Pierre Billon	1	0
+Hanto	1	0
+KRUL	1	0
+Adam	1	0
+Arcturus	1	0
+Publique	1	0
+Parvenue	1	0
+Porfirat Hart	1	0
+Dokor	1	0
+Norast	1	0
+Lev	1	0
+Milla	1	0
+Vieux	1	0
+Terrestre	1	0
+BAIL	1	0
+Building	1	0
+Second Foundation Traduction	1	0
+Tomas	1	0
+POUR	1	0
+Asperta	1	0
+Recherche	1	0
+Marchand Eskel Gorov	1	0
+Lev Meirus	1	0
+Argolide	1	0
+Magnifiée Giganticus	1	0
+Mulets	1	0
+Willig	1	0
+DE	1	0
+Nation	1	0
+Sa Splendeur	1	0
+COMMISSION	1	0
+Achille	1	0
+Stellin	1	0
+Le Maire Hardin	1	0
+Théâtre Central	1	0
+Nouvel An	1	0
+GALACTICA II	1	0
+DIRECTIONS	1	0
+Bibliothèque Impériale	1	0
+Tomas Sutt	1	0
+BEL RIOSE	1	0
+Liberté	1	0
+Commission Seldon	1	0
+BAIL CHANNIS LE	1	0
+ROYAUMES	1	0
+Avenue Fleurie	1	0
+Publis	1	0
+PSYCHOHISTORIENS	1	0
+LES PSYCHOHISTORIENS	1	0
+Sécurité	1	0
+Etoiles Rouges	1	0
+Secrète Korellienne	1	0
+Lo	1	0
+Temple	1	0
+Hall	1	0
+Demen	1	0
+Phase	1	0
+Pierre	1	0
+Marchand Eskel	1	0
+Dame Cailla	1	0
+XYUDLHQW	1	0
+Pain	1	0
+Cléon Ier	1	0
+PARTIE LE	1	0
+Dagobert IX	1	0
+Félocution	1	0
+Mori	1	0
+Porfirat	1	0
+Encyclopedia	1	0
+Giganticus	1	0
+Filiens	1	0
+PARTIE BAIL CHANNIS	1	0
+Galactica	1	0
+Seigneur Stellin	1	0
+GH	1	0
+Splendeur Impériale	1	0
+Mulel	1	0
+XYré	1	0
+Toran Darell	1	0
+Affaires Etrangères	1	0
+CHANNIS LE	1	0
+Lundin	1	0
+Building Hardin	1	0
+Nouvel	1	0
+Education	1	0
+Locrien	1	0
+Splendeur	1	0
+Paradis Terrestre	1	0
+RQ	1	0
+Pax	1	0
+Central	1	0
+Rhétorique	1	0
+Aînés	1	0
+POUR TOUTES DIRECTIONS	1	0
+Billon PREMIÈRE	1	0
+Renseignements	1	0
+PSK	1	0
+Billon	1	0
+Brutus	1	0
+Pax Imperium	1	0
+Cosker	1	0
+Obijasi	1	0
+Académie	1	0
+LE MULET	1	0
+Alurin	1	0
+PUBLIQUE	1	0
+Universel	1	0
+HARI SELDON	1	0
+PARTIE LES PSYCHOHISTORIENS	1	0
+Traduction	1	0
+Empire Universel	1	0
+Orum Dirige	1	0
+Daribow	1	0
+Police	1	0
+Maires	1	0
+TV	1	0
+Première Dame	1	0
+Ingres	1	0
+Poo	1	0
+Composition	1	0
+Magnifîco	1	0
+Anacréonien	1	0
+Radiant	1	0
+Glyptal IV	1	0
+Sunni	1	0
+Tomma	1	0
+Lewis Pirenne	1	0
+Pierre Billon PREMIÈRE	1	0
+Cour	1	0
+Aîné	1	0
+Etrangères	1	0
+Limmar Ponyets	1	0
+Orum	1	0
+Création	1	0
+BAIL CHANNIS	1	0
+Bunde	1	0
+Synnax	1	0
+Sel	1	0
+Phase Trois	1	0
+GALACTICA Le	1	0
+Commodore Asper Argo	1	0
+LES QUATRE	1	0
+Interrègne	1	0
+Puissante	1	0
+Amirauté	1	0
+Président	1	0
+Second Foundation	1	0
+Nature	1	0
+Lyonesse	1	0
+Glyptal	1	0
+Secrète	1	0
+Impériaux	1	0
+PREMIÈRE	1	0
+PREMIÈRE PARTIE	1	0
+PROCUREUR	1	0
+Encyclopedia Galactica	1	0
+Hortnir Munn	1	0
+Terre	1	0
+Levi	1	0
+Publis Manlio	1	0
+Amann	1	0
+MAIRES	1	0
+Cailla	1	0
+CHANNIS	1	0
+DE SÉCURITÉ	1	0
+QUATRE	1	0
+Lundin Crast	1	0
+Askonien	1	0
+Wanda	1	0
+Guilde	1	0
+GALACTICA Bel	1	0
+Eglise	1	0
+Fennel Leemor	1	0
+GALACTICA Une	1	0
+SÉCURITÉ PUBLIQUE	1	0
+HARI	1	0
+Le Hangar	1	0
+Santé	1	0
+Planète	1	0
+Pé	1	0
+Foundation Traduction	1	0
+Cinquième	1	0
+GÉNÉRAL	1	0
+Théâtre	1	0
+Maître Marchand Eskel	1	0
+Gouvernement Impérial	1	0
+Puissante Majesté	1	0
+Radolien	1	0
+Dam	1	0
+Irréductible	1	0
+Charte	1	0
+Port II	1	0
+Lepold Ier	1	0
+Impérial	1	0
+Foundation	1	0
+Kiev	1	0
+DE SÉCURITÉ PUBLIQUE	1	0
+OV	1	0
+Dokor Walto	1	0
+Cinquième Orateur	1	0
+COMMISSION DE SÉCURITÉ	1	0
+Bureau	1	0
+Ja	1	0
+Après Sermak	1	0
+Stannel	1	0
+MULET	1	0
+Olynthus Dam	1	0
+Trantorien	1	0
+Grand Maitre	1	0
+Levvaw	1	0
+COMMISSION DE	1	0
+Conseil Municipal	1	0
+Mores	1	0
+LES MAIRES	1	0
+RIOSE	1	0
+LES QUATRE ROYAUMES	1	0
+PARTIE BAIL	1	0
+Héroïque	1	0
+SÉCURITÉ	1	0
+Majorât	1	0
+Lera	1	0
+Sa Splendeur Impériale	1	0
+Lo Moro	1	0
+BEL	1	0
+Consulat	1	0
+Fennel	1	0
+Oligarchie	1	0
+Véga	1	0
+Atomo	1	0
+Delicas	1	0
+Limmar	1	0
+PREMIÈRE PARTIE BAIL	1	0
+NÉOTRANTOR	1	0
+Mori Luk	1	0
+LE GÉNÉRAL	1	0
+Second	1	0
+Moro	1	0
+Etoiles Sombres	1	0
+Imperium	1	0
+Etats	1	0
+Age Héroïque	1	0
+Entuns	1	0
+Vrank	1	0
+Konom	1	0
+Loris	1	0
+Rouges	1	0
+Fleurie	1	0
+Symes	1	0
+Arcadia Palver	1	0
+Tarki	1	0
+Je	0	531
+Vous	0	425
+Et	0	350
+Nous	0	176
+Ce	0	136
+Un	0	96
+En	0	88
+Oui	0	80
+Que	0	72
+Non	0	71
+Qu	0	65
+Cela	0	63
+Dans	0	61
+Eh	0	60
+Comment	0	60
+Alors	0	58
+Pour	0	52
+Puis	0	51
+Tout	0	41
+Pourquoi	0	41
+Pas	0	39
+Ça	0	39
+Oh	0	38
+Tu	0	38
+Le Mulet	0	33
+Ah	0	33
+Peut	0	29
+Ne	0	28
+Quand	0	28
+Allons	0	26
+Qui	0	25
+Par	0	25
+Maintenant	0	24
+Vraiment	0	23
+Où	0	22
+Ma	0	22
+Sur	0	21
+Très	0	21
+Ecoutez	0	21
+Ces	0	20
+Du	0	19
+Quel	0	19
+Moi	0	18
+Quelle	0	18
+La Fondation	0	18
+Pendant	0	18
+Voilà	0	18
+Ses	0	18
+Même	0	17
+Parce	0	16
+Comme	0	15
+Tenez	0	15
+Voyons	0	15
+Rien	0	15
+Cet	0	14
+Dites	0	14
+Mes	0	13
+Depuis	0	13
+Etes	0	13
+Parfaitement	0	13
+Sans	0	12
+Avez	0	12
+Tous	0	12
+Car	0	11
+Attendez	0	11
+Plus	0	11
+Quoi	0	10
+Celui	0	10
+Voulez	0	10
+Merci	0	10
+Cinq	0	10
+Le Marchand	0	10
+Voici	0	10
+Naturellement	0	10
+Parlez	0	9
+Toutes	0	9
+Allez	0	9
+Lentement	0	9
+Pourtant	0	9
+Aucune	0	9
+Exactement	0	8
+Peu	0	8
+Là	0	8
+Ou	0	8
+Cependant	0	8
+Notre	0	8
+ENCYCLOPEDIA	0	8
+ENCYCLOPEDIA GALACTICA	0	8
+Voyez	0	8
+Se	0	8
+Enfin	0	8
+Quelque	0	7
+Aucun	0	7
+Avant	0	7
+Lorsqu	0	7
+Combien	0	7
+Regardez	0	7
+Croyez	0	7
+Elles	0	7
+Parfait	0	7
+Asseyez	0	7
+Jamais	0	7
+Laissez	0	7
+Le Grand	0	6
+Savez	0	6
+Sinon	0	6
+Selon	0	6
+Jusqu	0	6
+Pensez	0	6
+Malheureusement	0	6
+VI	0	6
+Sonor	0	6
+Le Grand Maître	0	6
+Impossible	0	6
+Or	0	6
+Continuez	0	6
+Leur	0	6
+Certainement	0	6
+Nul	0	6
+Certes	0	5
+Encore	0	5
+La Galaxie	0	5
+Dix	0	5
+Quelqu	0	5
+Capitaine	0	5
+Sous	0	5
+Vos	0	5
+Prenez	0	5
+Gardez	0	5
+Supposez	0	5
+Absolument	0	5
+Hum	0	5
+Les Marchands	0	5
+Toute	0	5
+Quels	0	5
+Six	0	5
+Faites	0	5
+Leurs	0	5
+Inutile	0	5
+Quant	0	5
+Seul	0	4
+Entre	0	4
+Toujours	0	4
+Simplement	0	4
+Lui	0	4
+Ceux	0	4
+Derrière	0	4
+III	0	4
+Personne	0	4
+Docteur	0	4
+Ai	0	4
+Chacun	0	4
+La Seconde Fondation	0	4
+Nos	0	4
+Seulement	0	4
+Donnez	0	4
+Supposons	0	4
+Tiens	0	4
+Bah	0	4
+Songez	0	4
+Ensuite	0	4
+Cent	0	4
+La Seconde	0	4
+Apparemment	0	4
+Arrêtez	0	4
+Excusez	0	4
+Finalement	0	4
+Hein	0	3
+Venez	0	3
+Secundo	0	3
+Considérez	0	3
+Comprenez	0	3
+Néanmoins	0	3
+Exact	0	3
+Autrement	0	3
+Gente	0	3
+Tandis	0	3
+Ni	0	3
+Connaissez	0	3
+Fort	0	3
+Voudriez	0	3
+Soudain	0	3
+Peuh	0	3
+Ainsi	0	3
+Cinquante	0	3
+Ceci	0	3
+Seuls	0	3
+Parlons	0	3
+Durant	0	3
+Père	0	3
+Désormais	0	3
+Restez	0	3
+Le Seigneur	0	3
+Messieurs	0	3
+Tant	0	3
+Nulle	0	3
+VII	0	3
+Emmenez	0	3
+Ici	0	3
+Désolé	0	3
+Malgré	0	3
+Tertio	0	3
+Autant	0	3
+Les Askoniens	0	3
+Hmm	0	3
+Toutefois	0	3
+Pouvez	0	3
+Curieux	0	2
+Votre Seldon	0	2
+Autrefois	0	2
+Ensemble	0	2
+Trente	0	2
+Voyage	0	2
+Les Fondations	0	2
+Moins	0	2
+Vingt	0	2
+Capitaine Pritcher	0	2
+Aurais	0	2
+PREMIERE PARTIE	0	2
+Libérez	0	2
+Venant	0	2
+Peutêtre	0	2
+Nobles	0	2
+Pardonnez	0	2
+Aujourd	0	2
+Nouvelle	0	2
+Adieu	0	2
+Reste	0	2
+Femme	0	2
+Juste	0	2
+Préparez	0	2
+Si Votre	0	2
+Ecoute	0	2
+Existe	0	2
+Appelez	0	2
+Ridicule	0	2
+Pensiez	0	2
+Puisque	0	2
+Pouvons	0	2
+Souvenez	0	2
+La Commission	0	2
+Répondez	0	2
+Quarante	0	2
+Placez	0	2
+Le Siwennien	0	2
+Vite	0	2
+Ultra	0	2
+Vivant	0	2
+Hmmm	0	2
+Chacune	0	2
+Examinez	0	2
+Autre	0	2
+Aimé	0	2
+Imaginez	0	2
+Dehors	0	2
+Réfléchissez	0	2
+Particulièrement	0	2
+Tels	0	2
+Sennett Forell	0	2
+Etait	0	2
+Dernier	0	2
+Fichtre	0	2
+Debout	0	2
+Le Renard	0	2
+Lieutenant	0	2
+Actuellement	0	2
+Sur Néotrantor	0	2
+Surtout	0	2
+Tel	0	2
+Inscrivez	0	2
+VIII	0	2
+Me	0	2
+IV Le	0	2
+Franchement	0	2
+Suivit	0	2
+II Le	0	2
+Seule	0	2
+Fais	0	2
+Agir	0	2
+Sennett	0	2
+Reconnaissants	0	2
+Assez	0	2
+Hé	0	2
+Notre Fondation	0	2
+Le Procureur	0	2
+Mettez	0	2
+Trahison	0	2
+Aussitôt	0	2
+Certains	0	2
+Laisse	0	2
+Entendu	0	2
+Avancez	0	2
+Disons	0	2
+Bref	0	2
+PREMIERE	0	2
+Quelques	0	2
+Ordonnez	0	2
+Trop	0	2
+Etant	0	2
+Compris	0	2
+Et Pirenne	0	2
+Environ	0	2
+Quatorze	0	1
+Point	0	1
+Le Seigneur Stettin	0	1
+Etre	0	1
+Mnemon	0	1
+Envoyez	0	1
+Calmement	0	1
+Sommes	0	1
+Assurément	0	1
+Savoi	0	1
+TAXIS POUR TOUTES	0	1
+Laissezmoi	0	1
+IV Après	0	1
+Evidemment	0	1
+Faisons	0	1
+Soit	0	1
+Un Marchand	0	1
+Soumise	0	1
+Machinalement	0	1
+Molff	0	1
+Connaissezvous	0	1
+Dois	0	1
+Bonjour	0	1
+XII La	0	1
+Ouïe	0	1
+Même Magnifico	0	1
+Subsisterait	0	1
+Lorsque Barr	0	1
+Ecoutezmoi	0	1
+Abasourdie	0	1
+Lumières	0	1
+Du Locris	0	1
+Inscrivez Arcadia Palver	0	1
+Soldats	0	1
+Personnellement	0	1
+Patricien	0	1
+Souffrirait	0	1
+Suffisant	0	1
+Menace	0	1
+Mais Eskel Gorov	0	1
+Retour	0	1
+Prévenez	0	1
+Joie	0	1
+Accepterez	0	1
+Le Plan	0	1
+Personnage	0	1
+ENCYCLOPEDIA GALACTICA Le	0	1
+Achetez	0	1
+Es	0	1
+VI Lorsque	0	1
+Mieux	0	1
+Pour Homir Munn	0	1
+Quiconque	0	1
+LE PROCUREUR	0	1
+II On	0	1
+Oncle Homir	0	1
+Neufs	0	1
+Trêve	0	1
+TRANTOR	0	1
+Les Rossemites	0	1
+Mad	0	1
+VII Jaim Twer	0	1
+Demandez	0	1
+Différents	0	1
+Mais Gilmer	0	1
+Soixante	0	1
+Comme Marchand	0	1
+Imbécile	0	1
+Pour Darell	0	1
+Maladroites	0	1
+Hormis	0	1
+Dépourvu	0	1
+Crois	0	1
+III Si	0	1
+CHAPITRE	0	1
+Silencieusement	0	1
+Passons	0	1
+Calme	0	1
+Répétez	0	1
+Toi	0	1
+XI La	0	1
+Mais Lepold	0	1
+Priorité	0	1
+Mais Darell	0	1
+Joue	0	1
+Retrouvant	0	1
+Auquel	0	1
+Uélectroencéphalographie	0	1
+Posez	0	1
+Le Filien	0	1
+Figure	0	1
+Poly	0	1
+Sont	0	1
+Te	0	1
+Sauf	0	1
+Tes	0	1
+Observez	0	1
+Commencez	0	1
+VI Le Maire	0	1
+Réglez	0	1
+Puériles	0	1
+Balbutiant	0	1
+Voyezvous	0	1
+Soumettez	0	1
+Exprimez	0	1
+Grâces	0	1
+Rends	0	1
+Simplement Arkady	0	1
+Branchez	0	1
+Mais Eskel	0	1
+Vastes	0	1
+Mais Barr	0	1
+Certaines	0	1
+Lâche	0	1
+Et Darell	0	1
+Permettez	0	1
+IV Korell	0	1
+Tâchez	0	1
+Renvoyez	0	1
+Riche	0	1
+Si Votre Majesté	0	1
+Ainsi Sa	0	1
+Jugez	0	1
+Quinze	0	1
+Car Limmar Ponyets	0	1
+Minuit	0	1
+Sur Trantor	0	1
+Le Trantorien	0	1
+Répétezles	0	1
+Cet Empire	0	1
+Si Channis	0	1
+Quand Mangin	0	1
+Atterrissez	0	1
+La Première	0	1
+Finissons	0	1
+Avertir	0	1
+XIV	0	1
+Quand Pritcher	0	1
+Jetez	0	1
+Randel	0	1
+Humm	0	1
+Essayez	0	1
+La TV	0	1
+Mais Ducem Barr	0	1
+Sachez	0	1
+Partant	0	1
+Regardant	0	1
+Sauriez	0	1
+Puis Devers	0	1
+Celle	0	1
+Téléporté	0	1
+Attaquez	0	1
+Poussé	0	1
+Près	0	1
+Sur Gamma	0	1
+Puis Munn	0	1
+Oncle	0	1
+Veuillez	0	1
+Docteur Darell	0	1
+Propre	0	1
+Et Tomma	0	1
+Plausibles	0	1
+Parmi	0	1
+Son Premier	0	1
+Comprenezvous	0	1
+CHAPITRE Second Foundation	0	1
+Eventuellement	0	1
+Recouvrant	0	1
+Ce Kleise	0	1
+Probablement	0	1
+Sale	0	1
+Immédiatement	0	1
+PREMIERE PARTIE LE	0	1
+Intéressant	0	1
+Généralement	0	1
+Maudit	0	1
+XI	0	1
+Ainsi Sa Majesté	0	1
+Mnémon	0	1
+TROISIEME PARTIE LES	0	1
+Ayant	0	1
+Arrêté	0	1
+Capitaine Han Pritcher	0	1
+Seul Magnifico	0	1
+Ta	0	1
+Approchez	0	1
+Comme Callia	0	1
+Docteur Seldon	0	1
+Mademoiselle	0	1
+Ce Sermak	0	1
+Le Radolien	0	1
+XIII	0	1
+VII Avakim	0	1
+Occupez	0	1
+VII Après	0	1
+Mais Bel	0	1
+Agrandissez	0	1
+Capitaine Han	0	1
+Dont	0	1
+Souhaitez	0	1
+Demandons	0	1
+Et Callia	0	1
+Rentrez	0	1
+Sornettes	0	1
+Vieille	0	1
+Demain	0	1
+Durée	0	1
+Habité	0	1
+Chirurgie	0	1
+Rappelez	0	1
+Redonnez	0	1
+Suis	0	1
+Sa Grâce	0	1
+Décidément	0	1
+Gouverneurs	0	1
+Hors	0	1
+Enlève	0	1
+Sur Siwenna	0	1
+Puissent	0	1
+Mal	0	1
+Faudrait	0	1
+IV Après Sermak	0	1
+Aurait	0	1
+Mais Elvett	0	1
+Peur	0	1
+Refusez	0	1
+Montrez	0	1
+Justement	0	1
+ENCYCLOPEDIA GALACTICA II	0	1
+Grave	0	1
+Ce Brodrig	0	1
+Seul Sermak	0	1
+IV NÉOTRANTOR	0	1
+Notamment	0	1
+Pénétrez	0	1
+Etrange	0	1
+Récemment	0	1
+TAXIS POUR	0	1
+Formaliste	0	1
+Le Vieux	0	1
+Devant	0	1
+Pour Homir	0	1
+Appuyez	0	1
+Lequel	0	1
+Lorsque Bayta	0	1
+TROISIEME	0	1
+Puisqu	0	1
+Cessez	0	1
+Détruits	0	1
+Tête	0	1
+Taisez	0	1
+Ditesmoi	0	1
+Mettons	0	1
+Comptaient	0	1
+Filez	0	1
+II Deux	0	1
+Dès	0	1
+Ferme	0	1
+XII	0	1
+Cette Fondation	0	1
+Le Cinquième	0	1
+Paroles	0	1
+Revenons	0	1
+Apaisez	0	1
+Pliez	0	1
+Regarde	0	1
+La Première Fondation	0	1
+Vains	0	1
+Seules	0	1
+Que Votre Majesté	0	1
+Préfères	0	1
+Le Seigneur Stellin	0	1
+IX Onum Barr	0	1
+Pourriez	0	1
+Appelons	0	1
+Bonnes	0	1
+Sept	0	1
+Terrorisée	0	1
+Quatrième	0	1
+Soudain Maman	0	1
+Gagner	0	1
+Facilement	0	1
+Mais Bel Riose	0	1
+Connaissant	0	1
+Etendez	0	1
+Quand Holk	0	1
+Sauvez	0	1
+Terminez	0	1
+Promettez	0	1
+Celuilà	0	1
+Figurez	0	1
+Va	0	1
+Ayant Kalgan	0	1
+Vis	0	1
+Pouvait	0	1
+Doisje	0	1
+Assumant	0	1
+Diviser	0	1
+Le Conseil	0	1
+XIII Asper Argo	0	1
+Inclinez	0	1
+Oubliez	0	1
+Joie Turbor	0	1
+Ohhh	0	1
+Et Salvor Hardin	0	1
+Réfléchis	0	1
+Passe	0	1
+Pourrais	0	1
+Hommes	0	1
+Thallos	0	1
+Sitôt	0	1
+Mais Callia	0	1
+Sûrement	0	1
+Billevesées	0	1
+Nouveau	0	1
+Né	0	1
+Aidez	0	1
+Propre Plan	0	1
+Raisonnement	0	1
+Obligations	0	1
+Si Votre Excellence	0	1
+Ennemis	0	1
+Méfiez	0	1
+Que Votre	0	1
+XIII Asper	0	1
+Lesquels	0	1
+Et Salvor	0	1
+Fermez	0	1
+De Dirige	0	1
+Le Maire Indbur	0	1
+Garre	0	1
+Calmez	0	1
+Citez	0	1
+Pou	0	1
+ENCYCLOPEDIA GALACTICA Bel	0	1
+Plusieurs	0	1
+TAXIS	0	1
+III Ils	0	1
+Mais Bail	0	1
+Parfois	0	1
+Fêtons	0	1
+Hm	0	1
+Inscrivez Arcadia	0	1
+Reprenez	0	1
+Bourrée	0	1
+Heureusement	0	1
+Le Journal	0	1
+Pas Magnifico	0	1
+Laissons	0	1
+Nulles	0	1
+Ces Marchands	0	1
+Commandant	0	1
+Mais Riose	0	1
+CHAPITRE Second	0	1
+Passez	0	1
+Exposez	0	1
+Vers	0	1
+Trouverai	0	1
+Pardon	0	1
+Accrochez	0	1
+Dispersez	0	1
+Quand Hardin	0	1
+Immunité	0	1
+Mais Homir	0	1
+Obéissant	0	1
+Mais Verisof	0	1
+De Korell	0	1
+Trouvez	0	1
+Primo	0	1
+Poly Verisof	0	1
+Seriez	0	1
+Sa Puissante Majesté	0	1
+Grum	0	1
+Mais Seldon	0	1
+Jusque	0	1
+Laquelle	0	1
+Un Seigneur	0	1
+Drôle	0	1
+Apportez	0	1
+XIV Le	0	1
+Jetant	0	1
+Prétendriez	0	1
+Retirez	0	1
+Presque	0	1
+Un Ancien	0	1
+TROISIEME PARTIE	0	1
+Bigre	0	1
+IX Onum	0	1
+Mouvements	0	1
+Recueillir	0	1
+Les Anciens	0	1
+GHOj	0	1
+Auprès	0	1
+III Au	0	1
+Transmettez	0	1
+Mais Toran	0	1
+Docteur Mis	0	1
+Déjà	0	1
+Féminence	0	1
+Halte	0	1
+Chez	0	1
+Autorité	0	1
+Nouvelle Trantor	0	1
+Saisissez	0	1
+Car Limmar	0	1
+VII Jaim	0	1
+Attends	0	1
+Figu	0	1
+Sa Puissante	0	1
+Mais Mis	0	1
+Conquêtes	0	1
+Rendez	0	1
+Complètement	0	1
+Donc	0	1
+Réveillez	0	1
+Mais Ducem	0	1
+Savezvous	0	1
+Comme Riose	0	1
+VI Gorov	0	1
+Aphasie	0	1
+Soyez	0	1
+Commencé	0	1
+IV Le Hangar	0	1
+Troisième	0	1
+Invasion	0	1
+Immanquablement	0	1
+Lève	0	1
+Profondément	0	1
+PREMIERE PARTIE LES	0	1
+Le Cinquième Orateur	0	1
+Mais Elvett Semic	0	1
+Avaient	0	1
+Surveillant	0	1
+Les Kalgamens	0	1
+Dramatique	0	1
+Puissions	0	1
+Mais Bayta	0	1
+Mais Bail Channis	0	1
+Telle	0	1
+Théoriquement	0	1
+VI Le	0	1
+Approximativement	0	1
+Ce Mulet	0	1
+Sortons	0	1
+Dis	0	1
+Exprimée	0	1
+ENCYCLOPEDIA GALACTICA Une	0	1
+Siège	0	1
