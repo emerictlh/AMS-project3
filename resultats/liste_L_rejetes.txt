@@ -14,9 +14,9 @@ Grand Maître	antidictionnaire
 Seigneur	titre
 Première Fondation	vu en minuscule
 Esprit	vu en minuscule
-Majesté	titre
 Citoyen	titre
 Fondations	impératif
+Majesté	titre
 Le	antidictionnaire
 Excellence	titre
 Papa	titre
@@ -29,9 +29,9 @@ Esprit Galactique	vu en minuscule
 Royaumes	vu en minuscule
 Quatre	vu en minuscule
 Dame	vu en minuscule
-Quatre Royaumes	vu en minuscule
-GALACTICA	capitales
 Anciens	vu en minuscule
+GALACTICA	capitales
+Quatre Royaumes	vu en minuscule
 Votre	antidictionnaire
 Monsieur	vu en minuscule
 Sa Majesté	antidictionnaire
@@ -45,63 +45,63 @@ Siwennien	gentilé
 Grâce	antidictionnaire
 Les	antidictionnaire
 Son	antidictionnaire
-PDQ	capitales
-PARTIE	capitales
-Astronef	vu en minuscule
 Altesse	titre
+Astronef	vu en minuscule
 Kalganiens	gentilé
 Maître Marchand	titre
-Soleil	vu en minuscule
+PARTIE	capitales
+PDQ	capitales
 Smyrnien	gentilé
+Soleil	vu en minuscule
 La	antidictionnaire
 Elle	antidictionnaire
 Une	antidictionnaire
 Haut	vu en minuscule
 Haut Rodric	vu en minuscule
-Korellienne	gentilé
-Nouvelles	vu en minuscule
-Grand Prêtre	antidictionnaire
-Korelliens	gentilé
-Nouvelles Impériales	vu en minuscule
-LES	capitales
-Université	vu en minuscule
-Rossemites	gentilé
 Askoniens	gentilé
-Palais	vu en minuscule
-Guerre	vu en minuscule
-Prêtre	vu en minuscule
-Grand Pillage	antidictionnaire
 FRQWUHF	capitales
+Grand Pillage	antidictionnaire
+Grand Prêtre	antidictionnaire
+Guerre	vu en minuscule
+Korellienne	gentilé
+Korelliens	gentilé
+LES	capitales
+Nouvelles	vu en minuscule
+Nouvelles Impériales	vu en minuscule
+Palais	vu en minuscule
+Prêtre	vu en minuscule
+Rossemites	gentilé
+Université	vu en minuscule
 On	antidictionnaire
 Cette	antidictionnaire
 Bien	antidictionnaire
 Après	antidictionnaire
 Votre Altesse	antidictionnaire
-Votre Majesté	antidictionnaire
 LE	capitales
+Votre Majesté	antidictionnaire
 Action	vu en minuscule
-République Korellienne	gentilé
-Son Excellence	antidictionnaire
-PARTIE LES	capitales
-Ancien	vu en minuscule
-Votre Excellence	antidictionnaire
-Madame	vu en minuscule
-Avenir	vu en minuscule
-Ministre	titre
-Sa Seigneurie	antidictionnaire
-Journal	vu en minuscule
-Ier	numéro de règne
-Filien	vu en minuscule
-Parti	vu en minuscule
-Mondes	vu en minuscule
-XU	capitales
-Temples	vu en minuscule
-Information	vu en minuscule
-Bibliothèque	vu en minuscule
-Sciences	vu en minuscule
-Premier Ministre	titre
-Empereur	vu en minuscule
 Amas	vu en minuscule
+Ancien	vu en minuscule
+Avenir	vu en minuscule
+Bibliothèque	vu en minuscule
+Empereur	vu en minuscule
+Filien	vu en minuscule
+Ier	numéro de règne
+Information	vu en minuscule
+Journal	vu en minuscule
+Madame	vu en minuscule
+Ministre	titre
+Mondes	vu en minuscule
+PARTIE LES	capitales
+Parti	vu en minuscule
+Premier Ministre	titre
+République Korellienne	gentilé
+Sa Seigneurie	antidictionnaire
+Sciences	vu en minuscule
+Son Excellence	antidictionnaire
+Temples	vu en minuscule
+Votre Excellence	antidictionnaire
+XU	capitales
 Mais	antidictionnaire
 Ils	antidictionnaire
 Si	antidictionnaire
@@ -113,11 +113,11 @@ Mon	antidictionnaire
 Avec	antidictionnaire
 Bon	antidictionnaire
 Lorsque	antidictionnaire
-Quelles	antidictionnaire
 Le Premier	antidictionnaire
+Quelles	antidictionnaire
+Deux	antidictionnaire
 Le Commodore	antidictionnaire
 Le Premier Orateur	antidictionnaire
-Deux	antidictionnaire
 IV	capitales
 Le Maire	antidictionnaire
 Chaque	antidictionnaire
@@ -125,176 +125,176 @@ Aussi	antidictionnaire
 Trois	vu en minuscule
 Votre Grâce	antidictionnaire
 Cléon II	capitales
-Monseigneur	vu en minuscule
-Grande Galaxie	antidictionnaire
 Grande	antidictionnaire
-Son Auguste	antidictionnaire
-Les Gorm	antidictionnaire
+Grande Galaxie	antidictionnaire
+Monseigneur	vu en minuscule
 Anselme Haut	vu en minuscule
-Son Auguste Majesté	antidictionnaire
-IX	capitales
 Anselme Haut Rodric	vu en minuscule
+IX	capitales
 Le Commodore Asper	antidictionnaire
-SELDON	capitales
-Votre Majesté Impériale	antidictionnaire
+Les Gorm	antidictionnaire
 Lors	antidictionnaire
-GALACTICA II	capitales
-Bibliothèque Impériale	vu en minuscule
-Nouvel	vu en minuscule
-Lors Avakim	antidictionnaire
-LE MULET	capitales
-Hall	mot de lieu
-DE SÉCURITÉ PUBLIQUE	capitales
-Filiens	gentilé
-COMMISSION DE	capitales
-CHANNIS LE MULET	capitales
-Santé	vu en minuscule
-LES PSYCHOHISTORIENS	capitales
-Trantorien	vu en minuscule
-XYUDLHQW	capitales
-CHANNIS	capitales
-PARTIE LE GÉNÉRAL	capitales
-BAIL	capitales
-Nouvel An	vu en minuscule
+SELDON	capitales
+Son Auguste	antidictionnaire
+Son Auguste Majesté	antidictionnaire
+Votre Majesté Impériale	antidictionnaire
 Affaires	vu en minuscule
-Building Hardin	mot de lieu
-Parvenue	vu en minuscule
-Mallow Hall	mot de lieu
-GÉNÉRAL	capitales
-Aîné	vu en minuscule
-GALACTICA Le	capitales
-Building	mot de lieu
-Secrète	vu en minuscule
-Sciences Historiques	vu en minuscule
-BAIL CHANNIS	capitales
-Gouvernement Impérial	vu en minuscule
-PARTIE LES PSYCHOHISTORIENS	capitales
-PSYCHOHISTORIENS	capitales
-Oligarchie	vu en minuscule
-Ions	impératif
-PARTIE BAIL	capitales
-LES QUATRE ROYAUMES	capitales
-Service	vu en minuscule
-Nation	vu en minuscule
-PARTIE LES MAIRES	capitales
-GALACTICA Une	capitales
-PREMIÈRE	capitales
-Sa Splendeur	antidictionnaire
-LES QUATRE	capitales
-Askonien	vu en minuscule
-Puissante Majesté	vu en minuscule
-Pierre	vu en minuscule
-Sombres	vu en minuscule
-HARI SELDON	capitales
-Phase	vu en minuscule
-Après Sermak	antidictionnaire
-An	vu en minuscule
-Président	vu en minuscule
-Splendeur Impériale	vu en minuscule
-Second Foundation Traduction	vu en minuscule
-Police Secrète	vu en minuscule
-GALACTICA Bel	capitales
-Bureau	vu en minuscule
-Second Foundation	vu en minuscule
-Billon PREMIÈRE	capitales
-Second	vu en minuscule
-Police Secrète Korellienne	vu en minuscule
-PUBLIQUE	capitales
-Théâtre	vu en minuscule
-Création	vu en minuscule
-DIRECTIONS	capitales
-Splendeur	vu en minuscule
-Impérial	vu en minuscule
-GH	capitales
-Planète	vu en minuscule
-DE	capitales
-Terre	vu en minuscule
-Pain	vu en minuscule
-ROYAUMES	capitales
-Homme	vu en minuscule
-LES MAIRES	capitales
-Première Dame	vu en minuscule
-SÉCURITÉ PUBLIQUE	capitales
-POUR TOUTES DIRECTIONS	capitales
-Historiques	vu en minuscule
-POUR	capitales
-PARTIE BAIL CHANNIS	capitales
-Temple	mot de lieu
-Anacréoniens	gentilé
-PREMIÈRE PARTIE	capitales
-Cinquième	vu en minuscule
-QUATRE	capitales
-LE GÉNÉRAL	capitales
-Impériaux	vu en minuscule
-Locrien	gentilé
-Police	vu en minuscule
-PREMIÈRE PARTIE BAIL	capitales
-TOUTES DIRECTIONS	capitales
-Pierre Billon	vu en minuscule
-Commissaire	vu en minuscule
-PROCUREUR	capitales
 Affaires Etrangères	vu en minuscule
-HARI	capitales
-Sécurité Publique	vu en minuscule
-PSK	capitales
-Cour	vu en minuscule
-Etoiles Rouges	vu en minuscule
-Secrète Korellienne	vu en minuscule
-Renseignements	vu en minuscule
-Glyptal IV	capitales
-Publique	vu en minuscule
-Avenue Fleurie	mot de lieu
-Etoiles Sombres	vu en minuscule
-Dagobert IX	capitales
-Vieux	vu en minuscule
-Le Maire Hardin	antidictionnaire
-MAIRES	capitales
-BEL RIOSE	capitales
-Dame Cailla	vu en minuscule
-COMMISSION DE SÉCURITÉ	capitales
-TV	capitales
-Paradis Terrestre	vu en minuscule
-OV	capitales
-Billon PREMIÈRE PARTIE	capitales
-POUR TOUTES	capitales
-RIOSE	capitales
-TOUTES	capitales
-Port II	capitales
-Pierre Billon PREMIÈRE	capitales
-SÉCURITÉ	capitales
-Humanité	vu en minuscule
-BAIL CHANNIS LE	capitales
-Phase Trois	vu en minuscule
-Gouverneur	vu en minuscule
-RQ	capitales
-QUATRE ROYAUMES	capitales
-Nature	vu en minuscule
-KRUL	capitales
-COMMISSION	capitales
-BEL	capitales
-Terrestre	vu en minuscule
-Cinquième Orateur	vu en minuscule
-Grand Maitre	antidictionnaire
-Théâtre Central	vu en minuscule
-GALACTICA Bel Riose	capitales
-Rouges	vu en minuscule
-Recherche	vu en minuscule
-Puissante	vu en minuscule
-DE SÉCURITÉ	capitales
-Liberté	vu en minuscule
-Composition	vu en minuscule
-Gouvernement	vu en minuscule
+An	vu en minuscule
 Anacréonien	gentilé
-Radolien	gentilé
-Rhétorique	vu en minuscule
-CHANNIS LE	capitales
+Anacréoniens	gentilé
+Après Sermak	antidictionnaire
+Askonien	vu en minuscule
 Avenue	mot de lieu
-Sécurité	vu en minuscule
-MULET	capitales
-PARTIE LE	capitales
+Avenue Fleurie	mot de lieu
+Aîné	vu en minuscule
+BAIL	capitales
+BAIL CHANNIS	capitales
+BAIL CHANNIS LE	capitales
+BEL	capitales
+BEL RIOSE	capitales
+Bibliothèque Impériale	vu en minuscule
+Billon PREMIÈRE	capitales
+Billon PREMIÈRE PARTIE	capitales
+Building	mot de lieu
+Building Hardin	mot de lieu
+Bureau	vu en minuscule
+CHANNIS	capitales
+CHANNIS LE	capitales
+CHANNIS LE MULET	capitales
+COMMISSION	capitales
+COMMISSION DE	capitales
+COMMISSION DE SÉCURITÉ	capitales
+Cinquième	vu en minuscule
+Cinquième Orateur	vu en minuscule
+Commissaire	vu en minuscule
+Composition	vu en minuscule
+Cour	vu en minuscule
+Création	vu en minuscule
+DE	capitales
+DE SÉCURITÉ	capitales
+DE SÉCURITÉ PUBLIQUE	capitales
+DIRECTIONS	capitales
+Dagobert IX	capitales
+Dame Cailla	vu en minuscule
+Etoiles Rouges	vu en minuscule
+Etoiles Sombres	vu en minuscule
+Filiens	gentilé
+GALACTICA Bel	capitales
+GALACTICA Bel Riose	capitales
+GALACTICA II	capitales
+GALACTICA Le	capitales
+GALACTICA Une	capitales
+GH	capitales
+Glyptal IV	capitales
+Gouvernement	vu en minuscule
+Gouvernement Impérial	vu en minuscule
+Gouverneur	vu en minuscule
+Grand Maitre	antidictionnaire
+GÉNÉRAL	capitales
+HARI	capitales
+HARI SELDON	capitales
+Hall	mot de lieu
+Historiques	vu en minuscule
+Homme	vu en minuscule
+Humanité	vu en minuscule
+Impérial	vu en minuscule
+Impériaux	vu en minuscule
+Ions	impératif
+KRUL	capitales
+LE GÉNÉRAL	capitales
+LE MULET	capitales
+LES MAIRES	capitales
+LES PSYCHOHISTORIENS	capitales
+LES QUATRE	capitales
+LES QUATRE ROYAUMES	capitales
 Le Hangar	antidictionnaire
+Le Maire Hardin	antidictionnaire
+Liberté	vu en minuscule
+Locrien	gentilé
+Lors Avakim	antidictionnaire
+MAIRES	capitales
+MULET	capitales
+Mallow Hall	mot de lieu
+Nation	vu en minuscule
+Nature	vu en minuscule
+Nouvel	vu en minuscule
+Nouvel An	vu en minuscule
 NÉOTRANTOR	capitales
+OV	capitales
+Oligarchie	vu en minuscule
+PARTIE BAIL	capitales
+PARTIE BAIL CHANNIS	capitales
+PARTIE LE	capitales
+PARTIE LE GÉNÉRAL	capitales
+PARTIE LES MAIRES	capitales
+PARTIE LES PSYCHOHISTORIENS	capitales
+POUR	capitales
+POUR TOUTES	capitales
+POUR TOUTES DIRECTIONS	capitales
+PREMIÈRE	capitales
+PREMIÈRE PARTIE	capitales
+PREMIÈRE PARTIE BAIL	capitales
+PROCUREUR	capitales
+PSK	capitales
+PSYCHOHISTORIENS	capitales
+PUBLIQUE	capitales
+Pain	vu en minuscule
+Paradis Terrestre	vu en minuscule
+Parvenue	vu en minuscule
+Phase	vu en minuscule
+Phase Trois	vu en minuscule
+Pierre	vu en minuscule
+Pierre Billon	vu en minuscule
+Pierre Billon PREMIÈRE	capitales
+Planète	vu en minuscule
+Police	vu en minuscule
+Police Secrète	vu en minuscule
+Police Secrète Korellienne	vu en minuscule
+Port II	capitales
+Première Dame	vu en minuscule
+Président	vu en minuscule
+Publique	vu en minuscule
+Puissante	vu en minuscule
+Puissante Majesté	vu en minuscule
+QUATRE	capitales
+QUATRE ROYAUMES	capitales
+RIOSE	capitales
+ROYAUMES	capitales
+RQ	capitales
+Radolien	gentilé
+Recherche	vu en minuscule
+Renseignements	vu en minuscule
+Rhétorique	vu en minuscule
+Rouges	vu en minuscule
+Sa Splendeur	antidictionnaire
 Sa Splendeur Impériale	antidictionnaire
+Santé	vu en minuscule
+Sciences Historiques	vu en minuscule
+Second	vu en minuscule
+Second Foundation	vu en minuscule
+Second Foundation Traduction	vu en minuscule
+Secrète	vu en minuscule
+Secrète Korellienne	vu en minuscule
+Service	vu en minuscule
+Sombres	vu en minuscule
+Splendeur	vu en minuscule
+Splendeur Impériale	vu en minuscule
+SÉCURITÉ	capitales
+SÉCURITÉ PUBLIQUE	capitales
+Sécurité	vu en minuscule
+Sécurité Publique	vu en minuscule
+TOUTES	capitales
+TOUTES DIRECTIONS	capitales
+TV	capitales
+Temple	mot de lieu
+Terre	vu en minuscule
+Terrestre	vu en minuscule
+Théâtre	vu en minuscule
+Théâtre Central	vu en minuscule
+Trantorien	vu en minuscule
+Vieux	vu en minuscule
+XYUDLHQW	capitales
 Je	antidictionnaire
 Vous	antidictionnaire
 Et	antidictionnaire
@@ -315,12 +315,12 @@ Pour	antidictionnaire
 Puis	antidictionnaire
 Pourquoi	antidictionnaire
 Tout	antidictionnaire
-Ça	antidictionnaire
 Pas	antidictionnaire
+Ça	antidictionnaire
 Oh	vu en minuscule
 Tu	antidictionnaire
-Le Mulet	antidictionnaire
 Ah	antidictionnaire
+Le Mulet	antidictionnaire
 Peut	antidictionnaire
 Ne	antidictionnaire
 Quand	antidictionnaire
@@ -331,654 +331,654 @@ Maintenant	antidictionnaire
 Vraiment	antidictionnaire
 Ma	antidictionnaire
 Où	antidictionnaire
-Sur	antidictionnaire
 Ecoutez	impératif
+Sur	antidictionnaire
 Très	antidictionnaire
 Ces	antidictionnaire
 Du	antidictionnaire
 Quel	antidictionnaire
+La Fondation	antidictionnaire
+Moi	antidictionnaire
+Pendant	antidictionnaire
 Quelle	antidictionnaire
 Ses	antidictionnaire
 Voilà	antidictionnaire
-Moi	antidictionnaire
-Pendant	antidictionnaire
-La Fondation	antidictionnaire
 Même	antidictionnaire
 Parce	antidictionnaire
-Voyons	vu en minuscule
 Comme	antidictionnaire
 Rien	antidictionnaire
 Tenez	vu en minuscule
+Voyons	vu en minuscule
 Cet	antidictionnaire
 Dites	vu en minuscule
-Parfaitement	antidictionnaire
-Mes	antidictionnaire
 Depuis	antidictionnaire
 Etes	artefact
-Tous	antidictionnaire
-Sans	antidictionnaire
+Mes	antidictionnaire
+Parfaitement	antidictionnaire
 Avez	antidictionnaire
+Sans	antidictionnaire
+Tous	antidictionnaire
+Attendez	vu en minuscule
 Car	antidictionnaire
 Plus	antidictionnaire
-Attendez	vu en minuscule
 Celui	antidictionnaire
-Voici	antidictionnaire
-Voulez	antidictionnaire
-Merci	vu en minuscule
-Quoi	antidictionnaire
-Naturellement	vu en minuscule
 Cinq	vu en minuscule
 Le Marchand	antidictionnaire
-Aucune	antidictionnaire
-Toutes	antidictionnaire
-Parlez	vu en minuscule
-Lentement	vu en minuscule
+Merci	vu en minuscule
+Naturellement	vu en minuscule
+Quoi	antidictionnaire
+Voici	antidictionnaire
+Voulez	antidictionnaire
 Allez	vu en minuscule
+Aucune	antidictionnaire
+Lentement	vu en minuscule
+Parlez	vu en minuscule
 Pourtant	antidictionnaire
-Peu	antidictionnaire
+Toutes	antidictionnaire
+Cependant	antidictionnaire
 ENCYCLOPEDIA	capitales
 ENCYCLOPEDIA GALACTICA	capitales
-Voyez	vu en minuscule
-Exactement	vu en minuscule
-Se	antidictionnaire
-Ou	antidictionnaire
-Cependant	antidictionnaire
-Notre	antidictionnaire
 Enfin	antidictionnaire
+Exactement	vu en minuscule
 Là	antidictionnaire
-Aucun	antidictionnaire
-Jamais	antidictionnaire
-Regardez	vu en minuscule
-Lorsqu	antidictionnaire
-Avant	antidictionnaire
-Elles	antidictionnaire
-Parfait	vu en minuscule
-Combien	antidictionnaire
-Quelque	antidictionnaire
-Croyez	vu en minuscule
-Laissez	vu en minuscule
+Notre	antidictionnaire
+Ou	antidictionnaire
+Peu	antidictionnaire
+Se	antidictionnaire
+Voyez	vu en minuscule
 Asseyez	vu en minuscule
-Sinon	antidictionnaire
+Aucun	antidictionnaire
+Avant	antidictionnaire
+Combien	antidictionnaire
+Croyez	vu en minuscule
+Elles	antidictionnaire
+Jamais	antidictionnaire
+Laissez	vu en minuscule
+Lorsqu	antidictionnaire
+Parfait	vu en minuscule
+Quelque	antidictionnaire
+Regardez	vu en minuscule
+Certainement	antidictionnaire
 Continuez	vu en minuscule
-Malheureusement	antidictionnaire
-Or	antidictionnaire
 Impossible	vu en minuscule
 Jusqu	antidictionnaire
-Certainement	antidictionnaire
-Pensez	vu en minuscule
-Leur	antidictionnaire
-Nul	antidictionnaire
-VI	capitales
-Le Grand Maître	antidictionnaire
-Selon	antidictionnaire
-Savez	vu en minuscule
 Le Grand	antidictionnaire
-Vos	antidictionnaire
-Inutile	vu en minuscule
-Sous	antidictionnaire
-Supposez	vu en minuscule
-Capitaine	vu en minuscule
-Faites	antidictionnaire
-Toute	antidictionnaire
-Six	vu en minuscule
-Les Marchands	antidictionnaire
-Hum	antidictionnaire
-Encore	antidictionnaire
-Gardez	vu en minuscule
-Quant	antidictionnaire
+Le Grand Maître	antidictionnaire
+Leur	antidictionnaire
+Malheureusement	antidictionnaire
+Nul	antidictionnaire
+Or	antidictionnaire
+Pensez	vu en minuscule
+Savez	vu en minuscule
+Selon	antidictionnaire
+Sinon	antidictionnaire
+VI	capitales
 Absolument	vu en minuscule
+Capitaine	vu en minuscule
+Certes	antidictionnaire
 Dix	vu en minuscule
+Encore	antidictionnaire
+Faites	antidictionnaire
+Gardez	vu en minuscule
+Hum	antidictionnaire
+Inutile	vu en minuscule
+La Galaxie	antidictionnaire
+Les Marchands	antidictionnaire
+Leurs	antidictionnaire
+Prenez	vu en minuscule
+Quant	antidictionnaire
 Quelqu	antidictionnaire
 Quels	antidictionnaire
-Leurs	antidictionnaire
-La Galaxie	antidictionnaire
-Prenez	vu en minuscule
-Certes	antidictionnaire
+Six	vu en minuscule
+Sous	antidictionnaire
+Supposez	vu en minuscule
+Toute	antidictionnaire
+Vos	antidictionnaire
 Ai	antidictionnaire
-Seul	antidictionnaire
-Chacun	antidictionnaire
-Tiens	antidictionnaire
-Entre	antidictionnaire
-Derrière	antidictionnaire
-Finalement	antidictionnaire
-Seulement	antidictionnaire
-Bah	antidictionnaire
-Excusez	impératif
-Supposons	impératif
+Apparemment	vu en minuscule
 Arrêtez	vu en minuscule
-III	capitales
+Bah	antidictionnaire
 Cent	vu en minuscule
 Ceux	antidictionnaire
-Donnez	vu en minuscule
-Songez	impératif
-Simplement	antidictionnaire
-Lui	antidictionnaire
-Ensuite	antidictionnaire
-La Seconde	antidictionnaire
-Personne	vu en minuscule
-La Seconde Fondation	antidictionnaire
-Nos	antidictionnaire
-Apparemment	vu en minuscule
-Toujours	antidictionnaire
+Chacun	antidictionnaire
+Derrière	antidictionnaire
 Docteur	vu en minuscule
-Exact	vu en minuscule
-Désolé	vu en minuscule
-Durant	antidictionnaire
-Voudriez	antidictionnaire
-Pouvez	antidictionnaire
-Cinquante	vu en minuscule
-Considérez	vu en minuscule
-Nulle	antidictionnaire
-Ceci	antidictionnaire
-Hmm	artefact
-Père	vu en minuscule
-Les Askoniens	antidictionnaire
+Donnez	vu en minuscule
+Ensuite	antidictionnaire
+Entre	antidictionnaire
+Excusez	impératif
+Finalement	antidictionnaire
+III	capitales
+La Seconde	antidictionnaire
+La Seconde Fondation	antidictionnaire
+Lui	antidictionnaire
+Nos	antidictionnaire
+Personne	vu en minuscule
+Seul	antidictionnaire
+Seulement	antidictionnaire
+Simplement	antidictionnaire
+Songez	impératif
+Supposons	impératif
+Tiens	antidictionnaire
+Toujours	antidictionnaire
 Ainsi	antidictionnaire
+Autant	antidictionnaire
+Autrement	antidictionnaire
+Ceci	antidictionnaire
+Cinquante	vu en minuscule
+Comprenez	vu en minuscule
 Connaissez	vu en minuscule
-VII	capitales
-Tandis	antidictionnaire
-Gente	vu en minuscule
-Tant	antidictionnaire
-Ni	antidictionnaire
-Le Seigneur	antidictionnaire
+Considérez	vu en minuscule
+Durant	antidictionnaire
+Désolé	vu en minuscule
 Désormais	antidictionnaire
 Emmenez	vu en minuscule
-Malgré	vu en minuscule
-Soudain	antidictionnaire
-Hein	antidictionnaire
-Néanmoins	antidictionnaire
-Messieurs	vu en minuscule
-Autrement	antidictionnaire
-Ici	antidictionnaire
-Autant	antidictionnaire
-Restez	vu en minuscule
-Comprenez	vu en minuscule
-Venez	vu en minuscule
+Exact	vu en minuscule
 Fort	vu en minuscule
+Gente	vu en minuscule
+Hein	antidictionnaire
+Hmm	artefact
+Ici	antidictionnaire
+Le Seigneur	antidictionnaire
+Les Askoniens	antidictionnaire
+Malgré	vu en minuscule
+Messieurs	vu en minuscule
+Ni	antidictionnaire
+Nulle	antidictionnaire
+Néanmoins	antidictionnaire
 Parlons	vu en minuscule
+Pouvez	antidictionnaire
+Père	vu en minuscule
+Restez	vu en minuscule
 Seuls	vu en minuscule
+Soudain	antidictionnaire
+Tandis	antidictionnaire
+Tant	antidictionnaire
 Toutefois	antidictionnaire
-Chacune	antidictionnaire
-Particulièrement	antidictionnaire
-Bref	antidictionnaire
-Debout	antidictionnaire
-Puisque	antidictionnaire
-Juste	vu en minuscule
-Existe	vu en minuscule
-Nouvelle	vu en minuscule
-Trop	antidictionnaire
-Mettez	vu en minuscule
-Suivit	vu en minuscule
-Hmmm	artefact
-Examinez	impératif
-Autrefois	antidictionnaire
+VII	capitales
+Venez	vu en minuscule
+Voudriez	antidictionnaire
+Actuellement	antidictionnaire
+Adieu	vu en minuscule
 Agir	vu en minuscule
-Inscrivez	impératif
-Libérez	impératif
+Aimé	vu en minuscule
+Appelez	vu en minuscule
+Assez	antidictionnaire
+Aujourd	antidictionnaire
+Aurais	antidictionnaire
+Aussitôt	antidictionnaire
+Autre	antidictionnaire
+Autrefois	antidictionnaire
+Avancez	vu en minuscule
+Bref	antidictionnaire
+Capitaine Pritcher	vu en minuscule
+Certains	antidictionnaire
+Chacune	antidictionnaire
+Compris	vu en minuscule
+Curieux	vu en minuscule
+Debout	antidictionnaire
+Dehors	antidictionnaire
 Dernier	antidictionnaire
 Disons	antidictionnaire
-Quarante	vu en minuscule
-Femme	vu en minuscule
-Pardonnez	impératif
-Surtout	antidictionnaire
-PREMIERE	capitales
-Dehors	antidictionnaire
-Me	antidictionnaire
-Autre	antidictionnaire
-Et Pirenne	antidictionnaire
-Ordonnez	vu en minuscule
-IV Le	capitales
-Aurais	antidictionnaire
-II Le	capitales
-Pouvons	antidictionnaire
-Fais	antidictionnaire
-Reconnaissants	vu en minuscule
-Ultra	vu en minuscule
-Quelques	antidictionnaire
-Vingt	vu en minuscule
-Actuellement	antidictionnaire
-Préparez	impératif
-Trente	vu en minuscule
-Vivant	vu en minuscule
-Lieutenant	vu en minuscule
-Reste	vu en minuscule
-Adieu	vu en minuscule
-Seule	antidictionnaire
-Avancez	vu en minuscule
-Pensiez	vu en minuscule
-Environ	antidictionnaire
-Les Fondations	antidictionnaire
-Venant	vu en minuscule
-Tels	antidictionnaire
 Ensemble	antidictionnaire
-Le Renard	antidictionnaire
-Appelez	vu en minuscule
-Ridicule	vu en minuscule
-Compris	vu en minuscule
-Moins	antidictionnaire
-Aujourd	antidictionnaire
-Réfléchissez	impératif
-Aussitôt	antidictionnaire
 Entendu	vu en minuscule
-Imaginez	vu en minuscule
-La Commission	antidictionnaire
-Sur Néotrantor	antidictionnaire
-Laisse	vu en minuscule
-Tel	antidictionnaire
-Assez	antidictionnaire
-VIII	capitales
-Vite	vu en minuscule
-Votre Seldon	antidictionnaire
-Capitaine Pritcher	vu en minuscule
-Nobles	vu en minuscule
-Certains	antidictionnaire
-Le Procureur	antidictionnaire
-Notre Fondation	antidictionnaire
-Trahison	vu en minuscule
-Voyage	vu en minuscule
-Placez	impératif
-PREMIERE PARTIE	capitales
-Le Siwennien	antidictionnaire
-Répondez	impératif
-Souvenez	vu en minuscule
-Aimé	vu en minuscule
+Environ	antidictionnaire
+Et Pirenne	antidictionnaire
+Examinez	impératif
+Existe	vu en minuscule
+Fais	antidictionnaire
+Femme	vu en minuscule
 Franchement	vu en minuscule
-Curieux	vu en minuscule
+Hmmm	artefact
+II Le	capitales
+IV Le	capitales
+Imaginez	vu en minuscule
+Inscrivez	impératif
+Juste	vu en minuscule
+La Commission	antidictionnaire
+Laisse	vu en minuscule
+Le Procureur	antidictionnaire
+Le Renard	antidictionnaire
+Le Siwennien	antidictionnaire
+Les Fondations	antidictionnaire
+Libérez	impératif
+Lieutenant	vu en minuscule
+Me	antidictionnaire
+Mettez	vu en minuscule
+Moins	antidictionnaire
+Nobles	vu en minuscule
+Notre Fondation	antidictionnaire
+Nouvelle	vu en minuscule
+Ordonnez	vu en minuscule
+PREMIERE	capitales
+PREMIERE PARTIE	capitales
+Pardonnez	impératif
+Particulièrement	antidictionnaire
+Pensiez	vu en minuscule
+Placez	impératif
+Pouvons	antidictionnaire
+Préparez	impératif
+Puisque	antidictionnaire
+Quarante	vu en minuscule
+Quelques	antidictionnaire
+Reconnaissants	vu en minuscule
+Reste	vu en minuscule
+Ridicule	vu en minuscule
+Réfléchissez	impératif
+Répondez	impératif
+Seule	antidictionnaire
 Si Votre	antidictionnaire
-Mais Eskel	antidictionnaire
-Prétendriez	impératif
-Fêtons	impératif
-Agrandissez	impératif
-Les Anciens	antidictionnaire
-Citez	vu en minuscule
-CHAPITRE Second	capitales
-Autorité	vu en minuscule
-Faudrait	antidictionnaire
-Hm	artefact
-Puissent	antidictionnaire
-IX Onum	capitales
-Surveillant	vu en minuscule
-Imbécile	vu en minuscule
-IV Korell	capitales
-Simplement Arkady	antidictionnaire
-Oncle Homir	vu en minuscule
-ENCYCLOPEDIA GALACTICA Bel	capitales
-Raisonnement	vu en minuscule
-Lesquels	antidictionnaire
-Dépourvu	vu en minuscule
-Joie Turbor	vu en minuscule
-Pour Homir Munn	antidictionnaire
-Inclinez	impératif
-Joie	vu en minuscule
-Déjà	antidictionnaire
-CHAPITRE Second Foundation	capitales
-Laissons	impératif
-VII Jaim	capitales
-Dis	vu en minuscule
-Mais Lepold	antidictionnaire
-Même Magnifico	antidictionnaire
-Sortons	impératif
-Chez	antidictionnaire
-Si Votre Majesté	antidictionnaire
-Appelons	impératif
-IV NÉOTRANTOR	capitales
-Décidément	vu en minuscule
-Donc	antidictionnaire
-Avertir	vu en minuscule
-Obéissant	vu en minuscule
-Calmement	vu en minuscule
-Vis	vu en minuscule
-Grave	vu en minuscule
-Atterrissez	impératif
-Es	antidictionnaire
-Sa Puissante	antidictionnaire
-Mais Bail Channis	antidictionnaire
-Accrochez	impératif
-Quinze	vu en minuscule
-Occupez	vu en minuscule
-Taisez	vu en minuscule
-Demain	antidictionnaire
-Oncle	vu en minuscule
-Apaisez	impératif
-Obligations	vu en minuscule
-Mais Eskel Gorov	antidictionnaire
-Promettez	vu en minuscule
-III Si	capitales
-III Au	capitales
-Troisième	vu en minuscule
-Vers	antidictionnaire
-Lorsque Barr	antidictionnaire
-Parmi	antidictionnaire
-Aurait	antidictionnaire
-Le Conseil	antidictionnaire
-Sommes	antidictionnaire
+Souvenez	vu en minuscule
+Suivit	vu en minuscule
+Sur Néotrantor	antidictionnaire
+Surtout	antidictionnaire
+Tel	antidictionnaire
+Tels	antidictionnaire
+Trahison	vu en minuscule
+Trente	vu en minuscule
+Trop	antidictionnaire
+Ultra	vu en minuscule
+VIII	capitales
+Venant	vu en minuscule
+Vingt	vu en minuscule
+Vite	vu en minuscule
+Vivant	vu en minuscule
+Votre Seldon	antidictionnaire
+Voyage	vu en minuscule
 Accepterez	impératif
-IX Onum Barr	capitales
-Son Premier	antidictionnaire
-Le Plan	antidictionnaire
-Quand Holk	antidictionnaire
-De Korell	antidictionnaire
-Lequel	antidictionnaire
-VI Gorov	capitales
-Dois	antidictionnaire
-Mais Mis	antidictionnaire
-Attaquez	impératif
-Demandons	impératif
-Figu	vu en minuscule
-Seriez	antidictionnaire
-Ta	antidictionnaire
-ENCYCLOPEDIA GALACTICA II	capitales
-Renvoyez	impératif
-Tâchez	vu en minuscule
-Ayant Kalgan	antidictionnaire
-Poussé	vu en minuscule
-Mettons	vu en minuscule
-TRANTOR	capitales
-Assurément	vu en minuscule
-Avaient	antidictionnaire
-Le Seigneur Stellin	antidictionnaire
-Appuyez	impératif
-Terrorisée	vu en minuscule
-De Dirige	antidictionnaire
-Joue	vu en minuscule
-Conquêtes	vu en minuscule
-Mais Gilmer	antidictionnaire
-Soumettez	impératif
-Soyez	antidictionnaire
-Mais Elvett Semic	antidictionnaire
-Durée	vu en minuscule
-Différents	antidictionnaire
-Puisqu	antidictionnaire
-Un Ancien	antidictionnaire
-Dont	antidictionnaire
-Mais Bel Riose	antidictionnaire
-Plusieurs	antidictionnaire
-Puis Munn	antidictionnaire
-Habité	vu en minuscule
-Docteur Mis	vu en minuscule
-Parfois	antidictionnaire
-Mais Seldon	antidictionnaire
-ENCYCLOPEDIA GALACTICA Le	capitales
-Sur Trantor	antidictionnaire
-Redonnez	impératif
-Sornettes	vu en minuscule
-Et Darell	antidictionnaire
-Les Rossemites	antidictionnaire
-Hormis	antidictionnaire
-Soixante	vu en minuscule
-Priorité	vu en minuscule
-Sont	antidictionnaire
-XI	capitales
-Arrêté	vu en minuscule
-Mal	antidictionnaire
-Mais Ducem Barr	antidictionnaire
-Dramatique	vu en minuscule
-Vastes	vu en minuscule
-Silencieusement	vu en minuscule
-Cessez	vu en minuscule
-Jusque	antidictionnaire
-Profondément	vu en minuscule
-TROISIEME PARTIE	capitales
-Si Votre Excellence	antidictionnaire
-Ce Brodrig	antidictionnaire
-Propre	vu en minuscule
-Passez	vu en minuscule
-Dès	antidictionnaire
-Puis Devers	antidictionnaire
-PREMIERE PARTIE LE	capitales
-Oubliez	vu en minuscule
-Sa Puissante Majesté	antidictionnaire
-Réveillez	vu en minuscule
-Vieille	vu en minuscule
-Calme	vu en minuscule
-Maladroites	vu en minuscule
-Aidez	impératif
-Personnage	vu en minuscule
-Comme Marchand	antidictionnaire
-Celle	antidictionnaire
-Immanquablement	vu en minuscule
-Soldats	vu en minuscule
-Intéressant	vu en minuscule
-Observez	impératif
-Hommes	vu en minuscule
-Laquelle	antidictionnaire
-Le Maire Indbur	antidictionnaire
-Passons	impératif
-Machinalement	vu en minuscule
-Heureusement	vu en minuscule
-Soudain Maman	antidictionnaire
-Mieux	antidictionnaire
-Regarde	vu en minuscule
-Sûrement	antidictionnaire
-Probablement	antidictionnaire
-Presque	antidictionnaire
-Mais Bayta	antidictionnaire
-CHAPITRE	capitales
-Neufs	vu en minuscule
-Mais Homir	antidictionnaire
-Sauf	antidictionnaire
-Et Tomma	antidictionnaire
-Lâche	vu en minuscule
-Figure	vu en minuscule
-Grâces	vu en minuscule
-VII Avakim	capitales
-Près	antidictionnaire
-Exprimez	impératif
-Mais Callia	antidictionnaire
-Mais Ducem	antidictionnaire
-Refusez	vu en minuscule
-Facilement	antidictionnaire
-VI Lorsque	capitales
-Pourrais	antidictionnaire
-Envoyez	vu en minuscule
-Mais Riose	antidictionnaire
-TROISIEME	capitales
-XII	capitales
-Généralement	antidictionnaire
-Passe	vu en minuscule
-Le Trantorien	antidictionnaire
-IV Après	capitales
+Accrochez	impératif
 Achetez	impératif
-Immédiatement	vu en minuscule
-Point	vu en minuscule
-Nouveau	vu en minuscule
-XIV Le	capitales
-Rendez	vu en minuscule
-Posez	impératif
-Le Journal	antidictionnaire
-Mais Toran	antidictionnaire
-IV Le Hangar	capitales
-Mais Elvett	antidictionnaire
-IV Après Sermak	capitales
-Pas Magnifico	antidictionnaire
-Pardon	vu en minuscule
-Maudit	vu en minuscule
-Paroles	vu en minuscule
-Ce Mulet	antidictionnaire
-XIII Asper Argo	capitales
-Sale	vu en minuscule
-GHOj	artefact
-Mademoiselle	vu en minuscule
-Capitaine Han Pritcher	vu en minuscule
-Sitôt	antidictionnaire
-Devant	antidictionnaire
-Inscrivez Arcadia Palver	impératif
-Du Locris	antidictionnaire
-Propre Plan	vu en minuscule
-Bonnes	antidictionnaire
-Personnellement	vu en minuscule
-Mais Bail	antidictionnaire
-Formaliste	vu en minuscule
-Jugez	vu en minuscule
-Quand Pritcher	antidictionnaire
-La TV	capitales
-Capitaine Han	vu en minuscule
-Finissons	impératif
-Soumise	vu en minuscule
-Minuit	vu en minuscule
-Essayez	vu en minuscule
-Et Salvor Hardin	antidictionnaire
-Puissions	antidictionnaire
-Commencez	vu en minuscule
-Sur Siwenna	antidictionnaire
-Le Cinquième	antidictionnaire
-Né	vu en minuscule
-VII Jaim Twer	capitales
-Ayant	antidictionnaire
-Tes	antidictionnaire
-XII La	capitales
-TAXIS POUR	capitales
-Retirez	impératif
-Car Limmar	antidictionnaire
-Inscrivez Arcadia	impératif
-Bourrée	vu en minuscule
-Que Votre Majesté	antidictionnaire
-Quatrième	vu en minuscule
-Fermez	impératif
-ENCYCLOPEDIA GALACTICA Une	capitales
-Méfiez	impératif
-Lorsque Bayta	antidictionnaire
-Plausibles	vu en minuscule
-Figurez	vu en minuscule
-Seul Magnifico	antidictionnaire
-Commandant	vu en minuscule
-Auquel	antidictionnaire
-Siège	vu en minuscule
-Le Vieux	antidictionnaire
-Demandez	vu en minuscule
-Exprimée	vu en minuscule
-Auprès	antidictionnaire
-Si Channis	antidictionnaire
-Filez	vu en minuscule
-VII Après	capitales
-III Ils	capitales
-Ennemis	vu en minuscule
-Récemment	vu en minuscule
-Comme Callia	antidictionnaire
-Cette Fondation	antidictionnaire
-Saisissez	impératif
-Ferme	vu en minuscule
-TAXIS POUR TOUTES	capitales
-Exposez	impératif
-Répétez	vu en minuscule
-Que Votre	antidictionnaire
-Comme Riose	antidictionnaire
-Soit	antidictionnaire
-Mais Barr	antidictionnaire
-Gouverneurs	vu en minuscule
-Ce Kleise	antidictionnaire
+Agrandissez	impératif
+Aidez	impératif
+Ainsi Sa	antidictionnaire
 Ainsi Sa Majesté	antidictionnaire
-XIII Asper	capitales
-Crois	vu en minuscule
-VI Le Maire	capitales
-Quiconque	antidictionnaire
+Apaisez	impératif
+Appelons	impératif
 Apportez	vu en minuscule
+Approchez	impératif
+Appuyez	impératif
+Arrêté	vu en minuscule
+Assurément	vu en minuscule
+Attaquez	impératif
+Atterrissez	impératif
+Auprès	antidictionnaire
+Auquel	antidictionnaire
+Aurait	antidictionnaire
+Autorité	vu en minuscule
+Avaient	antidictionnaire
+Avertir	vu en minuscule
+Ayant	antidictionnaire
+Ayant Kalgan	antidictionnaire
+Bonjour	vu en minuscule
+Bonnes	antidictionnaire
+Bourrée	vu en minuscule
+Branchez	vu en minuscule
+CHAPITRE	capitales
+CHAPITRE Second	capitales
+CHAPITRE Second Foundation	capitales
+Calme	vu en minuscule
+Calmement	vu en minuscule
+Calmez	impératif
+Capitaine Han	vu en minuscule
+Capitaine Han Pritcher	vu en minuscule
+Car Limmar	antidictionnaire
 Car Limmar Ponyets	antidictionnaire
-XI La	capitales
-Tête	vu en minuscule
-Suffisant	vu en minuscule
-Pour Homir	antidictionnaire
+Ce Brodrig	antidictionnaire
+Ce Kleise	antidictionnaire
+Ce Mulet	antidictionnaire
+Ce Sermak	antidictionnaire
+Celle	antidictionnaire
+Certaines	antidictionnaire
+Ces Marchands	antidictionnaire
+Cessez	vu en minuscule
+Cet Empire	antidictionnaire
+Cette Fondation	antidictionnaire
+Chez	antidictionnaire
+Chirurgie	vu en minuscule
+Citez	vu en minuscule
+Commandant	vu en minuscule
+Comme Callia	antidictionnaire
+Comme Marchand	antidictionnaire
+Comme Riose	antidictionnaire
+Commencez	vu en minuscule
+Commencé	vu en minuscule
+Complètement	vu en minuscule
+Conquêtes	vu en minuscule
+Crois	vu en minuscule
+De Dirige	antidictionnaire
+De Korell	antidictionnaire
+Demain	antidictionnaire
+Demandez	vu en minuscule
+Demandons	impératif
+Devant	antidictionnaire
+Différents	antidictionnaire
+Dis	vu en minuscule
+Dispersez	impératif
+Docteur Darell	vu en minuscule
+Docteur Mis	vu en minuscule
+Docteur Seldon	vu en minuscule
+Dois	antidictionnaire
+Donc	antidictionnaire
+Dont	antidictionnaire
+Dramatique	vu en minuscule
+Du Locris	antidictionnaire
+Durée	vu en minuscule
+Dès	antidictionnaire
+Décidément	vu en minuscule
+Déjà	antidictionnaire
+Dépourvu	vu en minuscule
+Détruits	vu en minuscule
+ENCYCLOPEDIA GALACTICA Bel	capitales
+ENCYCLOPEDIA GALACTICA II	capitales
+ENCYCLOPEDIA GALACTICA Le	capitales
+ENCYCLOPEDIA GALACTICA Une	capitales
+Ennemis	vu en minuscule
+Envoyez	vu en minuscule
+Es	antidictionnaire
+Essayez	vu en minuscule
+Et Callia	antidictionnaire
+Et Darell	antidictionnaire
+Et Salvor	antidictionnaire
+Et Salvor Hardin	antidictionnaire
+Et Tomma	antidictionnaire
+Etendez	impératif
+Exposez	impératif
+Exprimez	impératif
+Exprimée	vu en minuscule
+Facilement	antidictionnaire
+Faisons	antidictionnaire
+Faudrait	antidictionnaire
+Ferme	vu en minuscule
+Fermez	impératif
+Figu	vu en minuscule
+Figure	vu en minuscule
+Figurez	vu en minuscule
+Filez	vu en minuscule
+Finissons	impératif
+Formaliste	vu en minuscule
+Fêtons	impératif
+GHOj	artefact
+Gagner	vu en minuscule
+Gouverneurs	vu en minuscule
+Grave	vu en minuscule
+Grâces	vu en minuscule
+Généralement	antidictionnaire
+Habité	vu en minuscule
+Halte	antidictionnaire
+Heureusement	vu en minuscule
+Hm	artefact
+Hommes	vu en minuscule
+Hormis	antidictionnaire
+Hors	antidictionnaire
 II Deux	capitales
+II On	capitales
+III Au	capitales
+III Ils	capitales
+III Si	capitales
+IV Après	capitales
+IV Après Sermak	capitales
+IV Korell	capitales
+IV Le Hangar	capitales
+IV NÉOTRANTOR	capitales
+IX Onum	capitales
+IX Onum Barr	capitales
+Imbécile	vu en minuscule
+Immanquablement	vu en minuscule
+Immunité	vu en minuscule
+Immédiatement	vu en minuscule
+Inclinez	impératif
+Inscrivez Arcadia	impératif
+Inscrivez Arcadia Palver	impératif
+Intéressant	vu en minuscule
+Invasion	vu en minuscule
+Jetant	vu en minuscule
+Jetez	impératif
+Joie	vu en minuscule
+Joie Turbor	vu en minuscule
+Joue	vu en minuscule
+Jugez	vu en minuscule
+Jusque	antidictionnaire
+Justement	antidictionnaire
+LE PROCUREUR	capitales
 La Première	antidictionnaire
 La Première Fondation	antidictionnaire
-Telle	antidictionnaire
-VI Le	capitales
-Quand Mangin	antidictionnaire
-Invasion	vu en minuscule
-Riche	vu en minuscule
-Quand Hardin	antidictionnaire
-Sauvez	vu en minuscule
-Chirurgie	vu en minuscule
-Sur Gamma	antidictionnaire
-Partant	vu en minuscule
-Bonjour	vu en minuscule
-Réglez	impératif
-Le Radolien	antidictionnaire
-Mais Bel	antidictionnaire
-Les Kalgamens	antidictionnaire
-Retour	vu en minuscule
-Pénétrez	impératif
-Justement	antidictionnaire
-Sauriez	vu en minuscule
-Recueillir	vu en minuscule
-Docteur Seldon	vu en minuscule
-Reprenez	impératif
-Veuillez	antidictionnaire
-Seul Sermak	antidictionnaire
-Suis	antidictionnaire
-Sa Grâce	antidictionnaire
-Complètement	vu en minuscule
-Le Filien	antidictionnaire
-Faisons	antidictionnaire
-Peur	vu en minuscule
-Menace	vu en minuscule
-Seules	vu en minuscule
+La TV	capitales
+Laissons	impératif
+Laquelle	antidictionnaire
+Le Cinquième	antidictionnaire
 Le Cinquième Orateur	antidictionnaire
-Réfléchis	vu en minuscule
-Trouverai	vu en minuscule
-Nouvelle Trantor	vu en minuscule
-Vains	vu en minuscule
-Gagner	vu en minuscule
-Terminez	impératif
-Mouvements	vu en minuscule
-TROISIEME PARTIE LES	capitales
-Sept	vu en minuscule
-Nulles	vu en minuscule
-Mais Verisof	antidictionnaire
-XIV	capitales
-PREMIERE PARTIE LES	capitales
-Et Salvor	antidictionnaire
-Trêve	vu en minuscule
-Patricien	vu en minuscule
-Jetant	vu en minuscule
-LE PROCUREUR	capitales
-Prévenez	vu en minuscule
-Cet Empire	antidictionnaire
-Permettez	vu en minuscule
-Te	antidictionnaire
-Calmez	impératif
-Jetez	impératif
-Ces Marchands	antidictionnaire
-XIII	capitales
-II On	capitales
-Détruits	vu en minuscule
-Pourriez	antidictionnaire
-Et Callia	antidictionnaire
-Regardant	vu en minuscule
-Halte	antidictionnaire
-TAXIS	capitales
-Trouvez	vu en minuscule
-Pou	vu en minuscule
-Sachez	vu en minuscule
-Commencé	vu en minuscule
-Quatorze	vu en minuscule
-Etendez	impératif
-Ainsi Sa	antidictionnaire
-Hors	antidictionnaire
-Approchez	impératif
-Souhaitez	vu en minuscule
-Lumières	vu en minuscule
-Pliez	impératif
-Notamment	vu en minuscule
-Ce Sermak	antidictionnaire
-Docteur Darell	vu en minuscule
-Montrez	impératif
-Pouvait	antidictionnaire
-Mais Darell	antidictionnaire
-Revenons	vu en minuscule
-Certaines	antidictionnaire
+Le Conseil	antidictionnaire
+Le Filien	antidictionnaire
+Le Journal	antidictionnaire
+Le Maire Indbur	antidictionnaire
+Le Plan	antidictionnaire
+Le Radolien	antidictionnaire
+Le Seigneur Stellin	antidictionnaire
 Le Seigneur Stettin	antidictionnaire
-Dispersez	impératif
-Toi	antidictionnaire
-Un Marchand	antidictionnaire
-Branchez	vu en minuscule
+Le Trantorien	antidictionnaire
+Le Vieux	antidictionnaire
+Lequel	antidictionnaire
+Les Anciens	antidictionnaire
+Les Kalgamens	antidictionnaire
+Les Rossemites	antidictionnaire
+Lesquels	antidictionnaire
+Lorsque Barr	antidictionnaire
+Lorsque Bayta	antidictionnaire
+Lumières	vu en minuscule
+Lâche	vu en minuscule
+Machinalement	vu en minuscule
+Mademoiselle	vu en minuscule
+Mais Bail	antidictionnaire
+Mais Bail Channis	antidictionnaire
+Mais Barr	antidictionnaire
+Mais Bayta	antidictionnaire
+Mais Bel	antidictionnaire
+Mais Bel Riose	antidictionnaire
+Mais Callia	antidictionnaire
+Mais Darell	antidictionnaire
+Mais Ducem	antidictionnaire
+Mais Ducem Barr	antidictionnaire
+Mais Elvett	antidictionnaire
+Mais Elvett Semic	antidictionnaire
+Mais Eskel	antidictionnaire
+Mais Eskel Gorov	antidictionnaire
+Mais Gilmer	antidictionnaire
+Mais Homir	antidictionnaire
+Mais Lepold	antidictionnaire
+Mais Mis	antidictionnaire
+Mais Riose	antidictionnaire
+Mais Seldon	antidictionnaire
+Mais Toran	antidictionnaire
+Mais Verisof	antidictionnaire
+Mal	antidictionnaire
+Maladroites	vu en minuscule
+Maudit	vu en minuscule
+Menace	vu en minuscule
+Mettons	vu en minuscule
+Mieux	antidictionnaire
+Minuit	vu en minuscule
+Montrez	impératif
+Mouvements	vu en minuscule
+Méfiez	impératif
+Même Magnifico	antidictionnaire
+Neufs	vu en minuscule
+Notamment	vu en minuscule
+Nouveau	vu en minuscule
+Nouvelle Trantor	vu en minuscule
+Nulles	vu en minuscule
+Né	vu en minuscule
+Obligations	vu en minuscule
+Observez	impératif
+Obéissant	vu en minuscule
+Occupez	vu en minuscule
+Oncle	vu en minuscule
+Oncle Homir	vu en minuscule
+Oubliez	vu en minuscule
+PREMIERE PARTIE LE	capitales
+PREMIERE PARTIE LES	capitales
+Pardon	vu en minuscule
+Parfois	antidictionnaire
+Parmi	antidictionnaire
+Paroles	vu en minuscule
+Partant	vu en minuscule
+Pas Magnifico	antidictionnaire
+Passe	vu en minuscule
+Passez	vu en minuscule
+Passons	impératif
+Patricien	vu en minuscule
+Permettez	vu en minuscule
+Personnage	vu en minuscule
+Personnellement	vu en minuscule
+Peur	vu en minuscule
+Plausibles	vu en minuscule
+Pliez	impératif
+Plusieurs	antidictionnaire
+Point	vu en minuscule
+Posez	impératif
+Pou	vu en minuscule
 Pour Darell	antidictionnaire
-Un Seigneur	antidictionnaire
-Va	vu en minuscule
-Immunité	vu en minuscule
-Transmettez	impératif
-Rentrez	vu en minuscule
+Pour Homir	antidictionnaire
+Pour Homir Munn	antidictionnaire
+Pourrais	antidictionnaire
+Pourriez	antidictionnaire
+Poussé	vu en minuscule
+Pouvait	antidictionnaire
+Presque	antidictionnaire
+Priorité	vu en minuscule
+Probablement	antidictionnaire
+Profondément	vu en minuscule
+Promettez	vu en minuscule
+Propre	vu en minuscule
+Propre Plan	vu en minuscule
+Près	antidictionnaire
+Prétendriez	impératif
+Prévenez	vu en minuscule
+Puis Devers	antidictionnaire
+Puis Munn	antidictionnaire
+Puisqu	antidictionnaire
+Puissent	antidictionnaire
+Puissions	antidictionnaire
+Pénétrez	impératif
+Quand Hardin	antidictionnaire
+Quand Holk	antidictionnaire
+Quand Mangin	antidictionnaire
+Quand Pritcher	antidictionnaire
+Quatorze	vu en minuscule
+Quatrième	vu en minuscule
+Que Votre	antidictionnaire
+Que Votre Majesté	antidictionnaire
+Quiconque	antidictionnaire
+Quinze	vu en minuscule
+Raisonnement	vu en minuscule
 Rappelez	vu en minuscule
+Recueillir	vu en minuscule
+Redonnez	impératif
+Refusez	vu en minuscule
+Regardant	vu en minuscule
+Regarde	vu en minuscule
+Rendez	vu en minuscule
+Rentrez	vu en minuscule
+Renvoyez	impératif
+Reprenez	impératif
+Retirez	impératif
+Retour	vu en minuscule
+Revenons	vu en minuscule
+Riche	vu en minuscule
+Récemment	vu en minuscule
+Réfléchis	vu en minuscule
+Réglez	impératif
+Répétez	vu en minuscule
+Réveillez	vu en minuscule
+Sa Grâce	antidictionnaire
+Sa Puissante	antidictionnaire
+Sa Puissante Majesté	antidictionnaire
+Sachez	vu en minuscule
+Saisissez	impératif
+Sale	vu en minuscule
+Sauf	antidictionnaire
+Sauriez	vu en minuscule
+Sauvez	vu en minuscule
+Sept	vu en minuscule
+Seriez	antidictionnaire
+Seul Magnifico	antidictionnaire
+Seul Sermak	antidictionnaire
+Seules	vu en minuscule
+Si Channis	antidictionnaire
+Si Votre Excellence	antidictionnaire
+Si Votre Majesté	antidictionnaire
+Silencieusement	vu en minuscule
+Simplement Arkady	antidictionnaire
+Sitôt	antidictionnaire
+Siège	vu en minuscule
+Soit	antidictionnaire
+Soixante	vu en minuscule
+Soldats	vu en minuscule
+Sommes	antidictionnaire
+Son Premier	antidictionnaire
+Sont	antidictionnaire
+Sornettes	vu en minuscule
+Sortons	impératif
+Soudain Maman	antidictionnaire
+Souhaitez	vu en minuscule
+Soumettez	impératif
+Soumise	vu en minuscule
+Soyez	antidictionnaire
+Suffisant	vu en minuscule
+Suis	antidictionnaire
+Sur Gamma	antidictionnaire
+Sur Siwenna	antidictionnaire
+Sur Trantor	antidictionnaire
+Surveillant	vu en minuscule
+Sûrement	antidictionnaire
+TAXIS	capitales
+TAXIS POUR	capitales
+TAXIS POUR TOUTES	capitales
+TRANTOR	capitales
+TROISIEME	capitales
+TROISIEME PARTIE	capitales
+TROISIEME PARTIE LES	capitales
+Ta	antidictionnaire
+Taisez	vu en minuscule
+Te	antidictionnaire
+Telle	antidictionnaire
+Terminez	impératif
+Terrorisée	vu en minuscule
+Tes	antidictionnaire
+Toi	antidictionnaire
+Transmettez	impératif
+Troisième	vu en minuscule
+Trouverai	vu en minuscule
+Trouvez	vu en minuscule
+Trêve	vu en minuscule
+Tâchez	vu en minuscule
+Tête	vu en minuscule
+Un Ancien	antidictionnaire
+Un Marchand	antidictionnaire
+Un Seigneur	antidictionnaire
+VI Gorov	capitales
+VI Le	capitales
+VI Le Maire	capitales
+VI Lorsque	capitales
+VII Après	capitales
+VII Avakim	capitales
+VII Jaim	capitales
+VII Jaim Twer	capitales
+Va	vu en minuscule
+Vains	vu en minuscule
+Vastes	vu en minuscule
+Vers	antidictionnaire
+Veuillez	antidictionnaire
+Vieille	vu en minuscule
+Vis	vu en minuscule
+XI	capitales
+XI La	capitales
+XII	capitales
+XII La	capitales
+XIII	capitales
+XIII Asper	capitales
+XIII Asper Argo	capitales
+XIV	capitales
+XIV Le	capitales
 Fondation	non-personne (contexte)
 Empire	non-personne (contexte)
 Galaxie	non-personne (contexte)
@@ -993,250 +993,250 @@ Tazenda	non-personne (contexte)
 Conseil	non-personne (contexte)
 Plan Seldon	non-personne (contexte)
 Périphérie	non-personne (contexte)
-Etat	non-personne (contexte)
 Empire Galactique	non-personne (contexte)
+Etat	non-personne (contexte)
 Korell	non-personne (contexte)
 Rossem	non-personne (contexte)
 Siwenna	non-personne (contexte)
-Néotrantor	non-personne (contexte)
 Encyclopédie	non-personne (contexte)
+Néotrantor	non-personne (contexte)
 Seigneurs	non-personne (contexte)
 Commission	non-personne (contexte)
 Askone	non-personne (contexte)
 Lens	non-personne (contexte)
 Gorm	non-personne (contexte)
+Marchands Indépendants	non-personne (contexte)
+Nébuleuse	non-personne (contexte)
 Renard	non-personne (contexte)
 Visi	non-personne (contexte)
-Nébuleuse	non-personne (contexte)
-Marchands Indépendants	non-personne (contexte)
 Union	non-personne (contexte)
 Association	non-personne (contexte)
-Far Star	non-personne (contexte)
 Far	non-personne (contexte)
-Ere	non-personne (contexte)
+Far Star	non-personne (contexte)
 Encyclopédistes	non-personne (contexte)
+Ere	non-personne (contexte)
+Hangar	non-personne (contexte)
 République	non-personne (contexte)
 Unimara	non-personne (contexte)
-Hangar	non-personne (contexte)
+Auguste Majesté	indéterminé
 Canal	non-personne (contexte)
+Cartels	non-personne (contexte)
 Convention	non-personne (contexte)
 Etoiles	non-personne (contexte)
-Pléiades	non-personne (contexte)
-Cartels	non-personne (contexte)
-Auguste Majesté	indéterminé
 Paradis	non-personne (contexte)
+Pléiades	non-personne (contexte)
+Age Héroïque	indéterminé
 Commission Seldon	non-personne (contexte)
-Foundation Traduction	indéterminé
-Pax Imperium	indéterminé
 Conseil Municipal	non-personne (contexte)
-Porfirat Hart	indéterminé
 Empire Universel	non-personne (contexte)
+Encyclopedia Galactica	indéterminé
+Ere Galactique	non-personne (contexte)
+Fennel Leemor	indéterminé
+Foundation Traduction	indéterminé
+Levi Norast	indéterminé
 Lo Moro	indéterminé
 Olynthus Dam	indéterminé
-Encyclopedia Galactica	indéterminé
-Levi Norast	indéterminé
+Pax Imperium	indéterminé
 Plan Sel	non-personne (contexte)
-Fennel Leemor	indéterminé
-Age Héroïque	indéterminé
-Ere Galactique	non-personne (contexte)
+Porfirat Hart	indéterminé
 Galactique	indéterminé
 Bay	indéterminé
 Star	indéterminé
 Torie	indéterminé
 Smyrno	indéterminé
-Indépendants	indéterminé
 Administration	indéterminé
 End	indéterminé
+Indépendants	indéterminé
 Poochie	indéterminé
 Poli	indéterminé
 Olynthus	indéterminé
 Santanni	indéterminé
 Gilmer	indéterminé
+Erlking	indéterminé
 Impériales	indéterminé
 Locris	indéterminé
-Erlking	indéterminé
 Pillage	indéterminé
 Wiscard	indéterminé
-Mangin	indéterminé
-Horleggor	indéterminé
-Gamma	indéterminé
-Orre	indéterminé
-Pi	indéterminé
-Zéon	indéterminé
-Vincetori	indéterminé
-Auguste	indéterminé
-Pelot	indéterminé
-Stanmark	indéterminé
-Seigneurie	indéterminé
-Avakim	indéterminé
-Noth	indéterminé
-Homo	indéterminé
-Lemul	indéterminé
-Peurifoy	indéterminé
-Holk	indéterminé
-Newton	indéterminé
-Gentri	indéterminé
 Andromède	indéterminé
-Ha	indéterminé
-Lameth	indéterminé
-Iwo	indéterminé
-Hella	indéterminé
+Auguste	indéterminé
+Avakim	indéterminé
+Gamma	indéterminé
+Gentri	indéterminé
+Holk	indéterminé
+Homo	indéterminé
+Horleggor	indéterminé
+Lemul	indéterminé
+Mangin	indéterminé
+Newton	indéterminé
+Noth	indéterminé
+Orre	indéterminé
+Pelot	indéterminé
+Peurifoy	indéterminé
+Pi	indéterminé
+Seigneurie	indéterminé
+Stanmark	indéterminé
+Vincetori	indéterminé
+Zéon	indéterminé
 Chen	indéterminé
-Radole	indéterminé
+Ha	indéterminé
+Hella	indéterminé
+Iwo	indéterminé
+Lameth	indéterminé
 Leemor	indéterminé
-Lo	indéterminé
-Moro	indéterminé
-Hélicon	indéterminé
-Radiant	indéterminé
-Municipal	indéterminé
-Synnax	indéterminé
-Foundation	indéterminé
-Brutus	indéterminé
-Orateurs	indéterminé
-Willig	indéterminé
-Demen	indéterminé
-Mores	indéterminé
-Levvaw	indéterminé
-Konom	indéterminé
-Universel	indéterminé
-Charte	indéterminé
-Porfirat	indéterminé
-Etats	indéterminé
-Galactica	indéterminé
-Fleurie	indéterminé
-Delicas	indéterminé
-Argolide	indéterminé
-Milla	indéterminé
-Eglise	indéterminé
-Navigation	indéterminé
-Interrègne	indéterminé
-Sel	indéterminé
-Atomo	indéterminé
-Traduction	indéterminé
+Radole	indéterminé
 Académie	indéterminé
-Alurin	indéterminé
-Entuns	indéterminé
-Stannel	indéterminé
-Consulat	indéterminé
-Levi	indéterminé
-Age	indéterminé
-Magnifîco	indéterminé
-Fennel	indéterminé
-Héroïque	indéterminé
-Aînés	indéterminé
-Amirauté	indéterminé
-Véga	indéterminé
-Symes	indéterminé
 Achille	indéterminé
-Félocution	indéterminé
-Central	indéterminé
-Wanda	indéterminé
-Education	indéterminé
-Maires	indéterminé
-Mulel	indéterminé
-Stanel	indéterminé
 Adam	indéterminé
-Etrangères	indéterminé
-Hanto	indéterminé
-Divart	indéterminé
-Ingres	indéterminé
-Guilde	indéterminé
-Daribow	indéterminé
-Kalgamens	indéterminé
-Trésor	indéterminé
-Loris	indéterminé
-Vrank	indéterminé
-Mountel	indéterminé
-Fédération	indéterminé
-Bunde	indéterminé
-Lera	indéterminé
-Obijasi	indéterminé
+Age	indéterminé
+Alurin	indéterminé
+Amirauté	indéterminé
 Arcturus	indéterminé
-Pax	indéterminé
-Encyclopedia	indéterminé
-Imperium	indéterminé
-Norast	indéterminé
-Mulets	indéterminé
+Argolide	indéterminé
 Asperta	indéterminé
-Majorât	indéterminé
-Sunni	indéterminé
-Upshur	indéterminé
-Pé	indéterminé
-Kiev	indéterminé
-Poo	indéterminé
-Dam	indéterminé
-Cosker	indéterminé
-Paramay	indéterminé
-Samia	indéterminé
-Ja	indéterminé
-XYré	indéterminé
-Lyonesse	indéterminé
-Hart	indéterminé
-Maitre	indéterminé
-Tomma	indéterminé
-Glyptal	indéterminé
+Atomo	indéterminé
+Aînés	indéterminé
 Billon	indéterminé
+Brutus	indéterminé
+Bunde	indéterminé
+Central	indéterminé
+Charte	indéterminé
+Consulat	indéterminé
+Cosker	indéterminé
+Dam	indéterminé
+Daribow	indéterminé
+Delicas	indéterminé
+Demen	indéterminé
+Divart	indéterminé
+Education	indéterminé
+Eglise	indéterminé
+Encyclopedia	indéterminé
+Entuns	indéterminé
+Etats	indéterminé
+Etrangères	indéterminé
+Fennel	indéterminé
+Fleurie	indéterminé
+Foundation	indéterminé
+Fédération	indéterminé
+Félocution	indéterminé
+Galactica	indéterminé
+Glyptal	indéterminé
+Guilde	indéterminé
+Hanto	indéterminé
+Hart	indéterminé
+Hélicon	indéterminé
+Héroïque	indéterminé
+Imperium	indéterminé
+Ingres	indéterminé
+Interrègne	indéterminé
+Ja	indéterminé
+Kalgamens	indéterminé
+Kiev	indéterminé
+Konom	indéterminé
+Lera	indéterminé
+Levi	indéterminé
+Levvaw	indéterminé
+Lo	indéterminé
+Loris	indéterminé
+Lyonesse	indéterminé
+Magnifîco	indéterminé
+Maires	indéterminé
+Maitre	indéterminé
+Majorât	indéterminé
+Milla	indéterminé
+Mores	indéterminé
+Moro	indéterminé
+Mountel	indéterminé
+Mulel	indéterminé
+Mulets	indéterminé
+Municipal	indéterminé
+Navigation	indéterminé
+Norast	indéterminé
+Obijasi	indéterminé
+Orateurs	indéterminé
+Paramay	indéterminé
+Pax	indéterminé
+Poo	indéterminé
+Porfirat	indéterminé
+Pé	indéterminé
+Radiant	indéterminé
+Samia	indéterminé
+Sel	indéterminé
+Stanel	indéterminé
+Stannel	indéterminé
+Sunni	indéterminé
+Symes	indéterminé
+Synnax	indéterminé
+Tomma	indéterminé
+Traduction	indéterminé
+Trésor	indéterminé
+Universel	indéterminé
+Upshur	indéterminé
+Vrank	indéterminé
+Véga	indéterminé
+Wanda	indéterminé
+Willig	indéterminé
+XYré	indéterminé
 Sonor	indéterminé
 Peuh	indéterminé
 Secundo	indéterminé
 Tertio	indéterminé
-Etant	indéterminé
+Ecoute	indéterminé
 Etait	indéterminé
+Etant	indéterminé
+Fichtre	indéterminé
 Hé	indéterminé
 Peutêtre	indéterminé
-Fichtre	indéterminé
-Ecoute	indéterminé
-Doisje	indéterminé
-Ditesmoi	indéterminé
-Savoi	indéterminé
 Abasourdie	indéterminé
-Mnémon	indéterminé
-Drôle	indéterminé
-Voyezvous	indéterminé
-Comprenezvous	indéterminé
-Attends	indéterminé
-Connaissezvous	indéterminé
-Enlève	indéterminé
-Rends	indéterminé
-Evidemment	indéterminé
-Mad	indéterminé
-Grum	indéterminé
-Celuilà	indéterminé
-Téléporté	indéterminé
-Souffrirait	indéterminé
-Thallos	indéterminé
-Assumant	indéterminé
-Recouvrant	indéterminé
-Préfères	indéterminé
-Balbutiant	indéterminé
-Molff	indéterminé
-Savezvous	indéterminé
-Diviser	indéterminé
-Eventuellement	indéterminé
-Subsisterait	indéterminé
-Puériles	indéterminé
-Répétezles	indéterminé
-Randel	indéterminé
-Féminence	indéterminé
 Aphasie	indéterminé
-Retrouvant	indéterminé
-Garre	indéterminé
-Lève	indéterminé
-Ohhh	indéterminé
-Etre	indéterminé
-Théoriquement	indéterminé
 Approximativement	indéterminé
-Uélectroencéphalographie	indéterminé
-Primo	indéterminé
-Mnemon	indéterminé
+Assumant	indéterminé
+Attends	indéterminé
+Balbutiant	indéterminé
 Bigre	indéterminé
 Billevesées	indéterminé
-Ecoutezmoi	indéterminé
-Laissezmoi	indéterminé
-Etrange	indéterminé
-Connaissant	indéterminé
-Humm	indéterminé
+Celuilà	indéterminé
+Comprenezvous	indéterminé
 Comptaient	indéterminé
+Connaissant	indéterminé
+Connaissezvous	indéterminé
+Ditesmoi	indéterminé
+Diviser	indéterminé
+Doisje	indéterminé
+Drôle	indéterminé
+Ecoutezmoi	indéterminé
+Enlève	indéterminé
+Etrange	indéterminé
+Etre	indéterminé
+Eventuellement	indéterminé
+Evidemment	indéterminé
+Féminence	indéterminé
+Garre	indéterminé
+Grum	indéterminé
+Humm	indéterminé
+Laissezmoi	indéterminé
+Lève	indéterminé
+Mad	indéterminé
+Mnemon	indéterminé
+Mnémon	indéterminé
+Molff	indéterminé
+Ohhh	indéterminé
 Ouïe	indéterminé
+Primo	indéterminé
+Préfères	indéterminé
+Puériles	indéterminé
+Randel	indéterminé
+Recouvrant	indéterminé
+Rends	indéterminé
+Retrouvant	indéterminé
+Répétezles	indéterminé
+Savezvous	indéterminé
+Savoi	indéterminé
+Souffrirait	indéterminé
+Subsisterait	indéterminé
+Thallos	indéterminé
+Théoriquement	indéterminé
+Téléporté	indéterminé
+Uélectroencéphalographie	indéterminé
+Voyezvous	indéterminé
 Magnifiée	variante OCR de Magnifico
 Stellin	variante OCR de Stettin

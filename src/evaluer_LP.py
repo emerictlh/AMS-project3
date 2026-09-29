@@ -38,8 +38,9 @@ def charger_reference(chemin):
 
 
 def charger_LP(chemin):
-    """Renvoie l'ensemble des candidats présents dans LP."""
+    """Renvoie l'ensemble des candidats présents dans LP (sans la ligne d'en-tête)."""
     with open(chemin, "r", encoding="utf-8") as f:
+        next(f)
         return {ligne.split("\t")[0] for ligne in f if ligne.strip()}
 
 

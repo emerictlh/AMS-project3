@@ -4,7 +4,7 @@ Tâche 2 : Liste LP (personnages)
 Ce script part de la liste L (resultats/liste_L.txt), produite par
 liste_L.py, et n'en garde que les noms de personnes.
 
-Format attendu de liste_L.txt :
+Format attendu de liste_L.txt (première ligne = en-tête avec ces noms) :
     candidat<TAB>freq_milieu<TAB>freq_debut
 
     - candidat    : le mot ou groupe de mots (1 à 3 tokens) avec majuscule
@@ -282,7 +282,8 @@ def charger_liste_L(chemin):
     with open(chemin, "r", encoding="utf-8") as f:
         for ligne in f:
             parts = ligne.rstrip("\n").split("\t")
-            if len(parts) != 3:
+            # Ignore la ligne d'en-tête et les lignes mal formées
+            if len(parts) != 3 or not parts[1].isdigit():
                 continue
             candidat, freq_milieu, freq_debut = parts
             candidats[candidat] = (int(freq_milieu), int(freq_debut))
@@ -612,6 +613,7 @@ def main():
     # Export de LP, trié par fréquence décroissante (même format que L)
     chemin_LP = os.path.join(DOSSIER_RESULTATS, "liste_LP.txt")
     with open(chemin_LP, "w", encoding="utf-8") as f:
+        f.write("candidat\tfreq_milieu\tfreq_debut\n")
         for candidat, (fm, fd) in sorted(LP.items(), key=lambda x: (-x[1][0], x[0])):
             f.write(f"{candidat}\t{fm}\t{fd}\n")
 

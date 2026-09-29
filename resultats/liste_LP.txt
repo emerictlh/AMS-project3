@@ -1,3 +1,4 @@
+candidat	freq_milieu	freq_debut
 Mulet	225	0
 Seldon	175	12
 Hardin	86	41

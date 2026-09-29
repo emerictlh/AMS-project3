@@ -114,10 +114,12 @@ def main():
 
     # Liste L : candidat, fréquence hors début de phrase, fréquence en début
     candidats = set(total_milieu) | set(total_debut)
-    tries = sorted(candidats, key=lambda c: (-total_milieu[c], -total_debut[c]))
+    # En cas d'égalité, ordre alphabétique : le fichier est identique à chaque exécution
+    tries = sorted(candidats, key=lambda c: (-total_milieu[c], -total_debut[c], c))
 
     chemin_L = os.path.join(DOSSIER_RESULTATS, "liste_L.txt")
     with open(chemin_L, "w", encoding="utf-8") as f:
+        f.write("candidat\tfreq_milieu\tfreq_debut\n")
         for c in tries:
             f.write(f"{c}\t{total_milieu[c]}\t{total_debut[c]}\n")
 

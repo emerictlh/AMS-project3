@@ -8,42 +8,36 @@ Kalgan	76	lieu	lieu_fort:30, lieu_faible:20
 Anacréon	64	lieu	lieu_faible:28, lieu_fort:15
 Terminus	58	lieu	lieu_fort:27, lieu_faible:13
 Tazenda	30	lieu	lieu_faible:10, lieu_fort:6
-Espace	22	organisation	organisation:22
 Port	22	lieu	lieu_fort:7, lieu_faible:6
 Périphérie	19	organisation	organisation:19
-Etat	16	lieu	lieu_faible:8, organisation:7
 Empire Galactique	16	organisation	organisation:9
-Première Fondation	16	organisation	organisation:15
+Etat	16	lieu	lieu_faible:8, organisation:7
 Korell	15	lieu	lieu_faible:5, lieu_fort:3, personne:1
 Rossem	14	lieu	lieu_faible:5, lieu_fort:2
 Siwenna	12	lieu	lieu_fort:3, lieu_faible:1
 Encyclopédie	11	organisation	organisation:9
 Néotrantor	11	lieu	lieu_fort:7, lieu_faible:2
-Esprit Galactique	9	organisation	organisation:8
+Commission	8	organisation	organisation:8
 Askone	8	lieu	lieu_faible:3, lieu_fort:3
 Smyrno	8	lieu	lieu_faible:3, lieu_fort:1
-Commission	8	organisation	organisation:8
 Administration	6	lieu	lieu_faible:6
-Union	6	organisation	organisation:4
 Nébuleuse	6	organisation	organisation:6
+Union	6	organisation	organisation:4
 Association	5	organisation	organisation:4
-Astronef	4	organisation	organisation:4
 Ere	4	organisation	organisation:4
 Santanni	4	lieu	lieu_faible:2, lieu_fort:2
-République	3	organisation	organisation:2, lieu_fort:1
 Korellienne	3	lieu	lieu_fort:2
-Université	3	organisation	organisation:3
-Guerre	3	organisation	organisation:2, lieu_faible:1
+République	3	organisation	organisation:2, lieu_fort:1
 Unimara	3	organisation	organisation:2
-Radole	2	lieu	lieu_fort:1
+Gamma	2	lieu	lieu_fort:2
 Horleggor	2	lieu	lieu_fort:1, lieu_faible:1
 Pléiades	2	lieu	lieu_fort:1
-Gamma	2	lieu	lieu_fort:2
-Wanda	1	lieu	lieu_fort:1
-Bunde	1	lieu	lieu_fort:1
+Radole	2	lieu	lieu_fort:1
 Arcturus	1	lieu	lieu_fort:1
-Universel	1	lieu	lieu_fort:1
-Glyptal	1	lieu	lieu_fort:1
-Synnax	1	lieu	lieu_fort:1
-Stanel	1	lieu	lieu_fort:1
+Bunde	1	lieu	lieu_fort:1
 Delicas	1	lieu	lieu_fort:1
+Glyptal	1	lieu	lieu_fort:1
+Stanel	1	lieu	lieu_fort:1
+Synnax	1	lieu	lieu_fort:1
+Universel	1	lieu	lieu_fort:1
+Wanda	1	lieu	lieu_fort:1

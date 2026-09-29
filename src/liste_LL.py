@@ -63,13 +63,14 @@ SEUIL_FRAGMENT = 0.6    # "Seconde" est un fragment si 60 % de ses occurrences
 # ÉTAPE 1 : LIRE LES FICHIERS D'ENTRÉE
 # ============================================================================
 def lire_liste(chemin):
-    """Lit une liste 'candidat<TAB>fréquence<TAB>...' et renvoie l'ensemble des candidats."""
-    candidats = set()
+    """Lit une liste 'candidat<TAB>fréquence<TAB>...' et renvoie {candidat: fréquence}.
+    Dans L et LP, cette fréquence est celle en milieu de phrase (freq_milieu)."""
+    candidats = {}
     with open(chemin, encoding="utf-8") as f:
         for ligne in f:
             colonnes = ligne.rstrip("\n").split("\t")
             if len(colonnes) >= 2 and colonnes[1].isdigit():
-                candidats.add(colonnes[0])
+                candidats[colonnes[0]] = int(colonnes[1])
     return candidats
 
 
@@ -100,7 +101,7 @@ def lire_corpus(chemins):
 
 
 L = lire_liste(FICHIER_L)
-LP = lire_liste(FICHIER_LP) if os.path.exists(FICHIER_LP) else set()
+LP = lire_liste(FICHIER_LP) if os.path.exists(FICHIER_LP) else {}
 antidico = lire_antidico(FICHIER_ANTIDICO)
 tokens = lire_corpus(LIVRES)
 
@@ -132,6 +133,21 @@ print(f"Étape 2a - sans le bruit             : {len(candidats)} candidats")
 
 candidats = [c for c in candidats if c not in LP]
 print(f"Étape 2b - sans les personnages (LP) : {len(candidats)} candidats")
+
+
+def est_nom_commun(candidat):
+    """Vrai si un des mots est plus souvent écrit en minuscules qu'avec une
+    majuscule en milieu de phrase : c'est alors un nom commun ("Espace" / "espace").
+    Même règle que la règle 4 de liste_LP.py (heuristique de Mikheev 1999)."""
+    for mot in candidat.split():
+        freq_majuscule = L.get(mot, L[candidat])
+        if minuscules[mot.lower()] > freq_majuscule:
+            return True
+    return False
+
+
+candidats = [c for c in candidats if not est_nom_commun(c)]
+print(f"Étape 2c - sans les noms communs     : {len(candidats)} candidats")
 
 
 # ============================================================================
